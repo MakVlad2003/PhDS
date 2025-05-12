@@ -1,8 +1,3 @@
-Below is a ready‑to‑drop‑in **`README.md`** for the **PhDS** repository.
-It follows GitHub’s best‑practice layout, explains what each folder contains, tells users how to reproduce the notebooks, and links out to background resources for the main statistical / ML techniques that appear in the course‑work.
-
----
-
 ## Overview
 
 This repository is a personal “course‑hub” that tracks my progress through the **PhDS** (Probability & Data Science) curriculum.
