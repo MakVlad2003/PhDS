@@ -1,0 +1,783 @@
+title,magnitude_min,magnitude_max,date_time,cdi,mmi,tsunami,net,nst,dmin,gap,magType,depth,latitude,longitude,location,continent,country,sig
+"M 7.0 - 18 km SW of Malango, Solomon Islands",6.93,7.12,22-11-2022 02:03,very strong,strong,yes,us,117,0.509,17.0,mww,14.0,-9.7963,159.596,"Malango, Solomon Islands",Oceania,Solomon Islands,768
+"M 6.9 - 204 km SW of Bengkulu, Indonesia",6.8,7.03,18-11-2022 13:37,moderate,moderate,no,us,99,2.229,34.0,mww,25.0,-4.9559,100.738,"Bengkulu, Indonesia",,,735
+M 7.0 - ,6.9,7.09,12-11-2022 07:09,light,light,yes,us,147,3.125,18.0,mww,579.0,-20.0508,-178.346,,Oceania,Fiji,755
+"M 7.3 - 205 km ESE of Neiafu, Tonga",7.19,7.38,11-11-2022 10:48,average,average,yes,us,149,1.865,21.0,mww,37.0,-19.2918,-172.129,"Neiafu, Tonga",,,833
+M 6.6 - ,6.46,6.71,09-11-2022 10:14,no intensity,very light,yes,us,131,4.998,27.0,mww,624.464,-25.5948,178.278,,,,670
+M 7.0 - south of the Fiji Islands,6.9,7.11,09-11-2022 09:51,moderate,light,yes,us,142,4.578,26.0,mwb,660.0,-26.0442,178.381,the Fiji Islands,,,755
+M 6.8 - south of the Fiji Islands,6.71,6.89,09-11-2022 09:38,extremely light,light,yes,us,136,4.678,22.0,mww,630.379,-25.9678,178.363,the Fiji Islands,,,711
+"M 6.7 - 60 km SSW of Boca Chica, Panama",6.59,6.83,20-10-2022 11:57,strong,significant,yes,us,145,1.151,37.0,mww,20.0,7.6712,-82.3396,"Boca Chica, Panama",,Panama,797
+"M 6.8 - 55 km SSW of Aguililla, Mexico",6.69,6.89,22-09-2022 06:16,very strong,strong,yes,us,175,2.137,92.0,mww,20.0,18.33,-102.913,"Aguililla, Mexico",North America,Mexico,1179
+"M 7.6 - 35 km SSW of Aguililla, Mexico",7.47,7.69,19-09-2022 18:05,extremely strong,very strong,yes,us,271,1.153,69.0,mww,26.943,18.3667,-103.252,"Aguililla, Mexico",North America,Mexico,1799
+"M 6.9 - 90 km E of Yujing, Taiwan",6.82,6.98,18-09-2022 06:44,extremely strong,extremely strong,yes,us,215,0.401,34.0,mww,10.0,23.1444,121.307,"Yujing, Taiwan",Asia,Taiwan,887
+"M 6.5 - 96 km SE of Lugu, Taiwan",6.42,6.61,17-09-2022 13:41,strong,strong,yes,us,178,0.43,54.0,mww,10.0,23.029,121.348,"Lugu, Taiwan",Asia,Taiwan,756
+"M 7.0 - 209 km SSE of Isangel, Vanuatu",6.88,7.08,14-09-2022 11:04,strong,average,yes,us,192,2.977,45.0,mww,137.0,-21.2077,170.239,"Isangel, Vanuatu",,,761
+"M 7.6 - 70 km E of Kainantu, Papua New Guinea",7.47,7.67,10-09-2022 23:47,very strong,very strong,yes,us,272,3.158,12.0,mww,116.0,-6.2237,146.471,"Kainantu, Papua New Guinea",Oceania,Papua New Guinea,965
+"M 6.6 - 44 km SE of Kangding, China",6.47,6.72,05-09-2022 04:52,extremely strong,very strong,no,us,141,8.454,34.0,mww,12.0,29.7263,102.279,"Kangding, China",Asia,People's Republic of China,1043
+M 6.6 - south of the Kermadec Islands,6.5,6.68,14-08-2022 13:44,strong,significant,yes,us,68,5.293,34.0,mww,30.0,-32.6922,-178.959,the Kermadec Islands,,,672
+"M 7.0 - 11 km NE of Bantay, Philippines",6.9,7.11,27-07-2022 00:43,extremely strong,very strong,yes,us,152,5.276,22.0,mww,33.729,17.5978,120.809,"Bantay, Philippines",Asia,Philippines,1351
+"M 6.5 - 107 km SSW of Tarauacá, Brazil",6.39,6.63,08-06-2022 00:55,light,very light,no,us,236,1.999,31.0,mww,622.73,-9.0618,-71.1647,"Tarauacá, Brazil",South America,Brazil,653
+"M 7.2 - 10 km W of Azángaro, Peru",7.11,7.29,26-05-2022 12:02,strong,average,yes,us,144,2.494,40.0,mww,236.0,-14.8628,-70.3081,"Azángaro, Peru",South America,Peru,876
+M 6.9 - ,6.78,7.01,19-05-2022 10:13,very light,average,yes,us,127,0.371,45.0,mww,10.0,-54.1325,159.027,,,,733
+"M 6.8 - 86 km NNW of San Antonio de los Cobres, Argentina",6.69,6.91,10-05-2022 23:06,significant,average,yes,us,162,1.505,30.0,mww,220.0,-23.6141,-66.7236,"San Antonio de los Cobres, Argentina",South America,Argentina,762
+"M 6.6 - 55 km WSW of Masachapa, Nicaragua",6.47,6.69,21-04-2022 07:42,significant,average,yes,us,0,0.914,94.0,mww,27.0,11.5538,-86.9919,"Masachapa, Nicaragua",,,762
+M 7.0 - southeast of the Loyalty Islands,6.91,7.14,31-03-2022 05:44,significant,moderate,yes,us,0,2.705,26.0,mww,10.0,-22.5732,170.349,the Loyalty Islands,,,763
+"M 6.9 - 284 km ESE of Tadine, New Caledonia",6.81,7.03,30-03-2022 20:56,significant,moderate,yes,us,0,2.697,42.0,mww,10.0,-22.72,170.277,"Tadine, New Caledonia",,,738
+"M 6.7 - 65 km S of Hualien City, Taiwan",6.61,6.84,22-03-2022 17:41,very strong,strong,yes,us,0,0.289,32.0,mww,24.0,23.3421,121.636,"Hualien City, Taiwan",Asia,Taiwan,806
+"M 7.3 - 57 km ENE of Namie, Japan",7.2,7.39,16-03-2022 14:36,extremely strong,very strong,yes,us,0,2.936,29.0,mww,41.0,37.7015,141.587,"Namie, Japan",,,2397
+"M 6.7 - 166 km W of Pariaman, Indonesia",6.61,6.83,13-03-2022 21:09,extremely strong,significant,no,us,0,2.188,43.0,mww,28.0,-0.6831,98.6034,"Pariaman, Indonesia",Asia,Indonesia,708
+"M 6.6 - Kermadec Islands, New Zealand",6.52,6.68,02-03-2022 12:52,very light,strong,yes,us,0,0.827,46.0,mww,24.0,-30.0528,-177.74,"Kermadec Islands, New Zealand",,,670
+M 6.8 - south of the Fiji Islands,6.69,6.87,16-02-2022 20:21,very light,light,yes,us,0,5.78,12.0,mww,535.0,-23.7852,-179.968,the Fiji Islands,,,712
+"M 6.5 - 49 km NW of Barranca, Peru",6.39,6.64,03-02-2022 15:58,very strong,significant,no,us,0,3.026,22.0,mww,110.0,-4.455,-76.9395,"Barranca, Peru",South America,Peru,690
+M 6.5 - Kermadec Islands region,6.38,6.61,29-01-2022 02:46,strong,moderate,yes,us,0,1.088,57.0,mww,8.0,-29.535,-176.729,Kermadec Islands region,,,651
+"M 6.6 - 80 km SW of Labuan, Indonesia",6.48,6.68,14-01-2022 09:05,very strong,significant,no,us,0,2.418,22.0,mww,33.0,-6.9291,105.251,"Labuan, Indonesia",,Indonesia,785
+"M 6.5 - 71 km SE of Nikolski, Alaska",6.39,6.61,11-01-2022 12:39,no intensity,light,yes,at,97,1.61607,108.0,Mi,37.0,52.502,-168.08,"Nikolski, Alaska",,,650
+"M 6.5 - 71 km SE of Nikolski, Alaska",6.42,6.6,11-01-2022 12:39,no intensity,light,yes,pt,23,0.0,208.8,Mi,37.0,52.502,-168.08,"Nikolski, Alaska",,,650
+"M 6.6 - 53 km SE of Nikolski, Alaska",6.49,6.7,11-01-2022 12:39,very strong,average,yes,us,0,0.507,49.0,mww,19.0,52.6252,-168.15,"Nikolski, Alaska",,,674
+"M 6.7 - 91 km SE of Nikolski, Alaska",6.59,6.78,11-01-2022 11:35,no intensity,moderate,yes,at,50,0.936943,126.0,Mi,33.0,52.48,-167.736,"Nikolski, Alaska",,,691
+"M 6.7 - 91 km SE of Nikolski, Alaska",6.61,6.77,11-01-2022 11:35,no intensity,moderate,yes,pt,20,0.0,205.2,Mi,33.0,52.48,-167.736,"Nikolski, Alaska",,,691
+"M 6.8 - 100 km SE of Nikolski, Alaska",6.69,6.89,11-01-2022 11:35,strong,significant,yes,us,0,0.92,61.0,mww,20.0,52.6563,-167.917,"Nikolski, Alaska",,,730
+"M 6.6 - 48 km WNW of Pólis, Cyprus",6.52,6.7,11-01-2022 01:07,significant,significant,no,us,0,1.168,21.0,mww,21.0,35.1456,31.9095,"Pólis, Cyprus",Asia,,976
+"M 6.6 - northern Qinghai, China",6.47,6.73,07-01-2022 17:45,extremely strong,very strong,no,us,0,2.685,13.0,mww,13.0,37.8167,101.299,"northern Qinghai, China",Asia,People's Republic of China,1012
+"M 7.3 - 125 km NNE of Lospalos, Timor Leste",7.16,7.4,29-12-2021 18:25,very strong,strong,no,us,0,3.713,19.0,mww,165.49,-7.5924,127.581,"Lospalos, Timor Leste",,Indonesia,921
+M 7.3 - Flores Sea,7.21,7.39,14-12-2021 03:20,extremely strong,average,yes,us,0,1.025,32.0,mww,14.27,-7.6033,122.2,Flores Sea,Asia,Indonesia,854
+"M 7.5 - 43 km NNW of Barranca, Peru",7.4,7.62,28-11-2021 10:52,very strong,very strong,yes,us,0,4.951,40.0,mww,126.0,-4.4898,-76.8461,"Barranca, Peru",South America,Peru,1094
+"M 6.6 - 177 km SE of Hirara, Japan",6.52,6.69,10-11-2021 15:45,strong,moderate,yes,us,0,3.259,15.0,mww,12.0,23.5414,126.48,"Hirara, Japan",,,688
+"M 6.9 - 112 km E of Chignik, Alaska",6.8,7.01,11-10-2021 09:10,very strong,significant,yes,ak,0,0.0,0.0,mww,51.6,56.2581,-156.492,"Chignik, Alaska",North America,United States of America,995
+M 6.9 - Vanuatu region,6.79,7.01,09-10-2021 10:58,moderate,light,yes,us,0,4.778,31.0,mww,535.0,-21.1704,174.54,Vanuatu region,,,740
+M 7.3 - Vanuatu region,7.22,7.41,02-10-2021 06:29,moderate,moderate,yes,us,0,4.493,32.0,mww,527.0,-21.1036,174.895,Vanuatu region,,,826
+"M 6.5 - 80 km SW of Jiquilillo, Nicaragua",6.39,6.63,22-09-2021 09:57,strong,average,yes,us,0,0.993,114.0,mww,21.0,12.1598,-87.8542,"Jiquilillo, Nicaragua",,,684
+"M 7.0 - Acapulco, Mexico",6.88,7.09,08-09-2021 01:47,very strong,very strong,yes,us,0,0.07,43.0,mww,20.0,16.9502,-99.7877,"Acapulco, Mexico",North America,Mexico,2504
+M 7.1 - South Sandwich Islands region,6.98,7.24,22-08-2021 21:33,extremely light,moderate,yes,us,0,9.799,32.0,mww,6.0,-60.3026,-24.9992,South Sandwich Islands region,,Antarctica,776
+M 6.6 - South Sandwich Islands region,6.48,6.73,22-08-2021 00:45,extremely light,light,yes,us,0,8.865,19.0,mww,7.0,-60.1023,-24.4608,South Sandwich Islands region,,Antarctica,670
+"M 6.9 - 17 km N of Port-Olry, Vanuatu",6.79,7.03,18-08-2021 10:10,very strong,strong,yes,us,0,0.579,54.0,mww,93.0,-14.892,167.085,"Port-Olry, Vanuatu",Oceania,Vanuatu,741
+M 6.9 - South Sandwich Islands region,6.83,7.0,16-08-2021 11:10,significant,moderate,yes,us,0,8.363,48.0,mww,16.7,-58.3814,-23.3318,South Sandwich Islands region,,,734
+"M 7.2 - Nippes, Haiti",7.07,7.3,14-08-2021 12:29,extremely strong,very strong,yes,us,0,1.178,23.0,mww,10.0,18.3521,-73.4804,"Nippes, Haiti",North America,Haiti,2331
+"M 6.9 - 136 km SE of Perryville, Alaska",6.76,7.04,14-08-2021 11:57,average,moderate,yes,ak,0,0.0,0.0,mww,33.3,55.2364,-157.707,"Perryville, Alaska",,,738
+"M 6.9 - 125 km SE of Perryville, Alaska",6.82,6.99,14-08-2021 11:57,average,moderate,yes,us,0,1.173,36.0,mww,20.74,55.2657,-157.68,"Perryville, Alaska",,,738
+M 8.1 - South Sandwich Islands region,8.0,8.23,12-08-2021 18:35,no intensity,strong,no,us,0,7.463,78.0,mww,22.79,-58.4157,-25.3206,South Sandwich Islands region,,,1009
+M 7.5 - South Sandwich Islands region,7.38,7.63,12-08-2021 18:32,extremely strong,significant,yes,us,0,7.227,38.0,mww,47.23,-57.5959,-25.1874,South Sandwich Islands region,,,868
+"M 7.1 - 60 km ENE of Pondaguitan, Philippines",7.01,7.18,11-08-2021 17:46,extremely strong,strong,yes,us,0,1.273,25.0,mww,55.14,6.4547,126.742,"Pondaguitan, Philippines",,,846
+"M 8.2 - 91 km ESE of Perryville, Alaska",8.08,8.31,29-07-2021 06:15,very strong,significant,yes,us,0,0.875,66.0,mww,46.66,55.4742,-157.917,"Perryville, Alaska",,,1237
+"M 8.2 - 99 km SE of Perryville, Alaska",8.07,8.33,29-07-2021 06:15,very strong,strong,yes,ak,0,0.0,0.0,mww,35.0,55.3154,-157.829,"Perryville, Alaska",,,1252
+"M 6.7 - 15 km S of Hukay, Philippines",6.6,6.82,23-07-2021 20:48,very strong,average,yes,us,0,8.139,12.0,mww,110.0,13.6989,120.713,"Hukay, Philippines",Asia,Philippines,935
+"M 6.7 - 71 km S of Burica, Panama",6.58,6.8,21-07-2021 21:15,significant,significant,yes,us,0,1.395,61.0,mww,10.0,7.5904,-82.8813,"Burica, Panama",,,830
+"M 6.5 - Kermadec Islands, New Zealand",6.38,6.62,20-06-2021 17:05,no intensity,moderate,yes,us,0,7.994,24.0,mww,25.0,-30.2144,-177.773,"Kermadec Islands, New Zealand",,,650
+"M 6.5 - 265 km SSE of Alo, Wallis and Futuna",6.37,6.61,21-05-2021 22:13,average,strong,yes,us,0,4.518,44.0,mww,10.0,-16.4796,-177.356,"Alo, Wallis and Futuna",,,652
+"M 7.3 - Southern Qinghai, China",7.22,7.41,21-05-2021 18:04,extremely strong,extremely strong,no,us,0,4.655,9.0,mww,10.0,34.5861,98.2551,"Southern Qinghai, China",Asia,People's Republic of China,1025
+"M 6.7 - 260 km S of Sinabang, Indonesia",6.57,6.77,14-05-2021 06:33,very strong,moderate,no,us,0,1.487,37.0,mww,11.0,0.1684,96.6475,"Sinabang, Indonesia",,,698
+M 6.7 - Mauritius - Reunion region,6.6,6.83,12-05-2021 14:05,extremely strong,light,no,us,0,10.669,45.0,mww,10.0,-17.2495,66.3745,Mauritius - Reunion region,,,694
+M 6.9 - ,6.8,6.97,01-05-2021 01:27,strong,significant,yes,us,0,2.619,35.0,mww,43.0,38.2296,141.665,,Asia,Japan,919
+"M 6.5 - 207 km WSW of Haveluloto, Tonga",6.38,6.62,25-04-2021 22:28,moderate,moderate,no,us,0,5.931,20.0,mww,246.0,-21.6857,-177.064,"Haveluloto, Tonga",,,651
+"M 6.5 - 225 km WNW of Pangai, Tonga",6.42,6.58,24-04-2021 00:23,significant,moderate,no,us,0,10.405,19.0,mww,301.0,-18.9204,-176.235,"Pangai, Tonga",,,652
+"M 7.0 - 30 km E of Ishinomaki, Japan",6.88,7.14,20-03-2021 09:09,strong,strong,yes,us,0,2.378,35.0,mww,43.0,38.4752,141.607,"Ishinomaki, Japan",Asia,Japan,1052
+"M 6.6 - 171 km SSE of Ust’-Kamchatsk Staryy, Russia",6.51,6.73,16-03-2021 18:38,average,average,yes,us,0,3.183,18.0,mww,13.23,54.7018,163.208,"Ust’-Kamchatsk Staryy, Russia",,,672
+M 6.5 - Kermadec Islands region,6.4,6.63,04-03-2021 23:12,no intensity,moderate,no,us,0,11.764,25.0,mwb,24.0,-28.4792,-176.619,Kermadec Islands region,,,650
+"M 8.1 - Kermadec Islands, New Zealand",7.97,8.2,04-03-2021 19:28,extremely strong,very strong,yes,us,0,0.739,21.0,mww,28.93,-29.7466,-177.224,"Kermadec Islands, New Zealand",,,1021
+"M 7.4 - Kermadec Islands, New Zealand",7.31,7.49,04-03-2021 17:41,light,strong,yes,us,0,0.437,30.0,mww,43.0,-29.6131,-177.842,"Kermadec Islands, New Zealand",,,843
+"M 7.3 - 182 km NE of Gisborne, New Zealand",7.17,7.41,04-03-2021 13:27,strong,significant,yes,us,0,0.918,24.0,mww,10.0,-37.596,179.544,"Gisborne, New Zealand",,,932
+"M 7.1 - 73 km ENE of Namie, Japan",6.96,7.24,13-02-2021 14:07,extremely strong,very strong,yes,us,0,3.085,11.0,mww,43.98,37.6856,141.992,"Namie, Japan",,,1612
+M 7.7 - southeast of the Loyalty Islands,7.61,7.78,10-02-2021 13:19,extremely strong,moderate,yes,us,0,7.989,15.0,mww,10.0,-23.2787,171.489,the Loyalty Islands,,,918
+M 6.9 - South Shetland Islands,6.76,7.03,23-01-2021 23:36,extremely strong,average,yes,us,0,1.55,16.0,mww,15.0,-61.8484,-55.559,South Shetland Islands,,Antarctica,739
+"M 7.0 - 211 km SE of Pondaguitan, Philippines",6.93,7.07,21-01-2021 12:23,strong,average,yes,us,0,2.821,15.0,mww,80.0,5.0074,127.517,"Pondaguitan, Philippines",,,802
+"M 6.7 - 29 km SSW of Turt, Mongolia",6.58,6.81,11-01-2021 21:32,very strong,very strong,no,us,0,2.043,22.0,mww,10.0,51.2407,100.443,"Turt, Mongolia",Asia,Mongolia,776
+"M 6.7 - 146 km WNW of Corral, Chile",6.63,6.8,27-12-2020 21:39,average,average,yes,us,0,1.319,19.0,mww,10.0,-39.3264,-74.9067,"Corral, Chile",,,776
+"M 7.0 - 13 km NNE of Néon Karlovásion, Greece",6.88,7.07,30-10-2020 11:51,very strong,strong,no,us,0,1.518,18.0,mww,21.0,37.8973,26.7953,"Néon Karlovásion, Greece",Europe,Greece,1527
+"M 7.6 - 99 km SE of Sand Point, Alaska",7.49,7.72,19-10-2020 20:54,extremely strong,strong,yes,us,0,0.23,36.0,mww,28.37,54.662,-159.675,"Sand Point, Alaska",North America,United States of America,1165
+M 6.9 - central Mid-Atlantic Ridge,6.8,6.99,18-09-2020 21:43,no intensity,light,yes,us,0,11.255,16.0,mww,10.0,0.9604,-26.8332,central Mid-Atlantic Ridge,,,732
+"M 6.5 - 94 km NW of Vallenar, Chile",6.37,6.62,01-09-2020 21:09,significant,significant,no,us,0,0.388,49.0,mww,16.0,-27.9285,-71.3937,"Vallenar, Chile",,,674
+"M 6.8 - 86 km NW of Vallenar, Chile",6.68,6.92,01-09-2020 04:09,significant,strong,yes,us,0,0.312,69.0,mww,21.0,-28.013,-71.1958,"Vallenar, Chile",,Chile,824
+M 6.5 - central Mid-Atlantic Ridge,6.38,6.63,30-08-2020 21:20,moderate,average,no,us,0,15.394,31.0,mww,10.0,0.8696,-29.7046,central Mid-Atlantic Ridge,,,651
+"M 6.9 - 222 km SSE of Katabu, Indonesia",6.83,7.02,21-08-2020 04:09,moderate,light,no,us,0,2.267,20.0,mww,624.0,-6.6704,123.493,"Katabu, Indonesia",,Indonesia,749
+"M 6.9 - 122 km WSW of Bengkulu, Indonesia",6.8,7.01,18-08-2020 22:29,moderate,moderate,no,us,0,1.716,25.0,mww,26.0,-4.2791,101.215,"Bengkulu, Indonesia",,Indonesia,735
+"M 6.8 - 138 km WSW of Bengkulu, Indonesia",6.72,6.89,18-08-2020 22:23,average,moderate,no,us,0,1.816,34.0,mww,22.0,-4.3724,101.095,"Bengkulu, Indonesia",,Indonesia,716
+"M 6.6 - 13 km E of San Pedro, Philippines",6.47,6.7,18-08-2020 00:03,extremely strong,very strong,yes,us,0,5.128,14.0,mww,10.0,12.0065,124.13,"San Pedro, Philippines",,Philippines,784
+"M 7.8 - 99 km SSE of Perryville, Alaska",7.67,7.89,22-07-2020 06:12,extremely strong,strong,yes,us,0,0.621,60.0,mww,28.0,55.1079,-158.477,"Perryville, Alaska",,,1111
+"M 7.0 - 114 km NNW of Popondetta, Papua New Guinea",6.92,7.1,17-07-2020 02:50,significant,strong,yes,us,0,1.671,18.0,mww,73.0,-7.847,147.755,"Popondetta, Papua New Guinea",,Papua New Guinea,820
+"M 6.6 - 97 km N of Batang, Indonesia",6.52,6.7,06-07-2020 22:54,moderate,very light,no,us,0,1.458,14.0,mww,533.76,-5.6368,110.678,"Batang, Indonesia",,Indonesia,684
+"M 7.4 - 9 km SE of Santa María Xadani, Mexico",7.32,7.52,23-06-2020 15:29,very strong,very strong,yes,us,0,0.151,30.0,mww,20.0,15.9163,-95.9533,"Santa María Xadani, Mexico",North America,Mexico,1494
+M 7.4 - south of the Kermadec Islands,7.33,7.51,18-06-2020 12:49,strong,strong,yes,us,0,4.035,23.0,mww,10.0,-33.2938,-177.838,the Kermadec Islands,,,873
+"M 6.6 - 130 km WNW of Naze, Japan",6.47,6.73,13-06-2020 15:51,average,moderate,yes,us,0,2.015,18.0,mww,165.0,28.9386,128.262,"Naze, Japan",,,734
+"M 6.8 - 48 km SW of San Pedro de Atacama, Chile",6.69,6.89,03-06-2020 07:35,significant,significant,yes,us,0,1.164,21.0,mww,112.0,-23.2966,-68.4204,"San Pedro de Atacama, Chile",South America,Chile,835
+"M 6.5 - Monte Cristo Range, NV Earthquake",6.42,6.58,15-05-2020 11:03,strong,very strong,no,nn,27,0.357,55.79,ml,2.7,38.1689,-117.85,"Monte Cristo Range, NV Earthquake",North America,United States of America,1320
+"M 6.6 - 175 km SSE of Lata, Solomon Islands",6.49,6.69,12-05-2020 22:41,moderate,significant,yes,us,0,3.403,12.0,mww,107.0,-12.0662,166.648,"Lata, Solomon Islands",,,671
+M 6.8 - Banda Sea,6.7,6.87,06-05-2020 13:53,moderate,significant,no,us,0,1.921,16.0,mww,96.0,-6.7762,129.785,Banda Sea,,Indonesia,738
+"M 6.5 - 91 km S of Néa Anatolí, Greece",6.41,6.63,02-05-2020 12:51,strong,significant,no,us,0,1.293,19.0,mww,10.0,34.1818,25.7101,"Néa Anatolí, Greece",,,678
+"M 6.5 - Stanley, Idaho",6.42,6.61,31-03-2020 23:52,very strong,very strong,no,us,0,0.885,31.0,mww,12.06,44.4646,-115.118,"Stanley, Idaho",North America,United States of America,1410
+"M 7.5 - 221 km SSE of Severo-Kuril’sk, Russia",7.42,7.6,25-03-2020 02:49,significant,average,yes,us,0,4.109,12.0,mww,57.8,48.9638,157.695,"Severo-Kuril’sk, Russia",,,879
+"M 7.0 - 95 km ENE of Kuril’sk, Russia",6.92,7.12,13-02-2020 10:33,average,significant,yes,us,0,4.501,25.0,mww,143.0,45.6161,148.959,"Kuril’sk, Russia",Asia,Russia,770
+"M 7.7 - 123 km NNW of Lucea, Jamaica",7.58,7.81,28-01-2020 19:10,extremely strong,significant,yes,us,0,1.657,26.0,mww,14.86,19.4193,-78.756,"Lucea, Jamaica",,,1812
+"M 6.7 - 13 km N of Do?anyol, Turkey",6.57,6.82,24-01-2020 17:55,very strong,extremely strong,no,us,0,0.87,49.0,mww,10.0,38.4312,39.0609,"Do?anyol, Turkey",Asia,Turkey,1247
+"M 6.8 - 7 km S of Magsaysay, Philippines",6.68,6.9,15-12-2019 06:11,extremely strong,strong,yes,us,0,0.546,39.0,mww,18.0,6.6969,125.174,"Magsaysay, Philippines",,Philippines,825
+"M 7.1 - 138km E of Bitung, Indonesia",6.97,7.18,14-11-2019 16:17,significant,significant,yes,us,0,1.271,11.0,mww,33.0,1.6213,126.416,"Bitung, Indonesia",,Indonesia,799
+"M 6.5 - 166km SSW of Ndoi Island, Fiji",6.39,6.63,08-11-2019 10:44,no intensity,very light,no,us,0,4.765,25.0,mww,577.0,-21.9449,-179.511,"Ndoi Island, Fiji",,,650
+"M 6.6 - 136 km W of Neiafu, Tonga",6.48,6.68,04-11-2019 22:43,moderate,moderate,yes,us,0,5.086,48.0,mww,10.0,-18.5747,-175.272,"Neiafu, Tonga",,,673
+"M 6.5 - 2km ESE of Kisante, Philippines",6.39,6.61,31-10-2019 01:11,extremely strong,strong,yes,us,0,0.428,19.0,mww,10.0,6.9098,125.178,"Kisante, Philippines",,Philippines,733
+"M 6.6 - 10 km NE of Columbio, Philippines",6.52,6.71,29-10-2019 01:04,extremely strong,strong,yes,us,0,0.646,24.0,mww,15.0,6.7567,125.008,"Columbio, Philippines",,Philippines,780
+"M 6.7 - 70 km WSW of Constitución, Chile",6.61,6.81,29-09-2019 15:57,strong,significant,yes,us,0,1.269,98.0,mww,11.0,-35.4758,-73.163,"Constitución, Chile",,,844
+"M 6.5 - 11km S of Kairatu, Indonesia",6.38,6.62,25-09-2019 23:46,strong,strong,yes,us,0,3.909,15.0,mww,12.26,-3.4528,128.37,"Kairatu, Indonesia",,Indonesia,656
+"M 6.6 - 34km NNE of Ndoi Island, Fiji",6.51,6.68,01-09-2019 15:54,very light,light,yes,us,0,4.121,19.0,mww,591.0,-20.3641,-178.57,"Ndoi Island, Fiji",,Fiji,671
+"M 6.6 - 131km S of Bristol Island, South Sandwich Islands",6.5,6.69,27-08-2019 23:55,no intensity,moderate,yes,us,0,12.896,19.0,mww,16.0,-60.2152,-26.5801,"Bristol Island, South Sandwich Islands",,United Kingdom of Great Britain and Northern Ireland (the),670
+"M 6.9 - 152 km SW of Labuan, Indonesia",6.79,7.03,02-08-2019 12:03,moderate,significant,no,us,0,2.839,23.0,mww,49.0,-7.2822,104.791,"Labuan, Indonesia",,,875
+"M 6.8 - 96 km SW of San Antonio, Chile",6.71,6.88,01-08-2019 18:28,significant,significant,yes,us,0,0.817,35.0,mww,25.0,-34.2364,-72.3102,"San Antonio, Chile",,,947
+"M 6.6 - 62km E of Lakatoro, Vanuatu",6.47,6.7,31-07-2019 15:02,no intensity,moderate,yes,us,0,6.024,30.0,mww,181.0,-16.1985,167.998,"Lakatoro, Vanuatu",,Vanuatu,670
+"M 7.2 - 93km NNE of Laiwui, Indonesia",7.12,7.32,14-07-2019 09:10,strong,strong,yes,us,0,1.504,38.0,mww,18.98,-0.5858,128.034,"Laiwui, Indonesia",,Indonesia,809
+"M 6.6 - 200km W of Broome, Australia",6.51,6.71,14-07-2019 05:39,average,average,no,us,0,2.978,32.0,mww,10.0,-18.2242,120.358,"Broome, Australia",,,791
+"M 6.9 - 134km WSW of Kota Ternate, Indonesia",6.82,6.99,07-07-2019 15:08,strong,average,no,us,0,1.205,21.0,mww,35.0,0.5126,126.189,"Kota Ternate, Indonesia",,Indonesia,747
+"M 7.1 - 18km W of Searles Valley, CA",6.98,7.22,06-07-2019 03:19,extremely strong,extremely strong,no,ci,77,0.04616,43.0,mw,8.0,35.7695,-117.599,"Searles Valley, CA",North America,United States of America,1646
+"M 7.3 - 292km NW of Saumlaki, Indonesia",7.21,7.41,24-06-2019 02:53,moderate,significant,yes,us,0,2.629,16.0,mww,212.0,-6.4078,129.169,"Saumlaki, Indonesia",,Indonesia,952
+"M 7.3 - 116km NE of L'Esperance Rock, New Zealand",7.19,7.39,15-06-2019 22:55,very strong,significant,yes,us,0,1.402,11.0,mww,46.0,-30.6441,-178.1,"L'Esperance Rock, New Zealand",,,830
+"M 6.6 - 32 km S of La Libertad, El Salvador",6.5,6.73,30-05-2019 09:03,strong,significant,yes,us,0,1.193,22.0,mww,57.92,13.1994,-89.3056,"La Libertad, El Salvador",,,886
+"M 8.0 - 78 km NE of Navarro, Peru",7.92,8.12,26-05-2019 07:41,extremely strong,very strong,yes,us,0,3.18,17.0,mww,122.57,-5.8119,-75.2697,"Navarro, Peru",South America,Peru,1890
+"M 7.6 - 46km SSE of Namatanai, Papua New Guinea",7.5,7.68,14-05-2019 12:58,strong,strong,yes,us,0,0.453,16.0,mww,10.0,-4.051,152.597,"Namatanai, Papua New Guinea",,Papua New Guinea,929
+"M 7.1 - 33km NW of Bulolo, Papua New Guinea",6.96,7.21,06-05-2019 21:19,strong,significant,yes,us,0,2.514,16.0,mww,146.0,-6.9746,146.449,"Bulolo, Papua New Guinea",,Papua New Guinea,826
+"M 6.8 - 98km SSW of Luwuk, Indonesia",6.7,6.9,12-04-2019 11:40,average,significant,yes,us,0,0.791,28.0,mww,15.46,-1.8146,122.58,"Luwuk, Indonesia",,Indonesia,717
+"M 6.5 - 83km ENE of Bristol Island, South Sandwich Islands",6.38,6.57,09-04-2019 17:53,no intensity,average,yes,us,0,7.568,18.0,mww,38.0,-58.6262,-25.304,"Bristol Island, South Sandwich Islands",,,650
+"M 7.0 - 22 km NNE of Azángaro, Peru",6.89,7.07,01-03-2019 08:50,strong,moderate,yes,us,0,2.501,42.0,mww,267.0,-14.7131,-70.1546,"Azángaro, Peru",South America,Peru,869
+"M 7.5 - 111km ESE of Palora, Ecuador",7.38,7.6,22-02-2019 10:17,strong,strong,yes,us,0,2.045,15.0,mww,145.0,-2.1862,-77.0505,"Palora, Ecuador",South America,Ecuador,1145
+"M 6.7 - 5 km SW of Puerto Madero, Mexico",6.57,6.84,01-02-2019 16:14,significant,significant,yes,us,0,0.289,43.0,mww,66.0,14.6802,-92.4527,"Puerto Madero, Mexico",,Mexico,909
+M 6.7 - Prince Edward Islands region,6.59,6.79,22-01-2019 19:01,no intensity,light,no,us,0,7.527,17.0,mww,13.0,-43.1219,42.3568,Prince Edward Islands region,,,691
+"M 6.7 - 10 km SSW of Coquimbo, Chile",6.59,6.8,20-01-2019 01:32,very strong,very strong,yes,us,0,0.173,22.0,mww,63.0,-30.0404,-71.3815,"Coquimbo, Chile",South America,Chile,1600
+"M 6.6 - 94 km NW of Sola, Vanuatu",6.52,6.71,15-01-2019 18:06,average,moderate,yes,us,0,7.818,18.0,mww,35.0,-13.336,166.875,"Sola, Vanuatu",,Vanuatu,671
+M 6.6 - Molucca Sea,6.5,6.73,06-01-2019 17:27,very light,moderate,yes,us,0,1.596,33.0,mww,43.21,2.258,126.758,Molucca Sea,,Indonesia,672
+"M 6.8 - 90km W of Tarauaca, Brazil",6.68,6.89,05-01-2019 19:25,light,light,no,us,0,1.181,16.0,mww,570.41,-8.144,-71.587,"Tarauaca, Brazil",South America,Brazil,715
+"M 7.0 - 96 km ESE of Pondaguitan, Philippines",6.9,7.08,29-12-2018 03:39,average,average,yes,us,0,1.769,21.0,mww,60.21,5.8983,126.921,"Pondaguitan, Philippines",,,803
+"M 7.3 - 187 km SE of Ust’-Kamchatsk Staryy, Russia",7.21,7.39,20-12-2018 17:01,light,strong,yes,us,0,4.126,23.0,mww,16.56,55.0999,164.699,"Ust’-Kamchatsk Staryy, Russia",,,822
+M 7.1 - South Sandwich Islands region,7.01,7.2,11-12-2018 02:26,no intensity,average,yes,us,0,7.043,20.0,mww,133.0,-58.5446,-26.3856,South Sandwich Islands region,,South Georgia and the South Sandwich Islands,776
+"M 6.6 - 199 km ESE of Tadine, New Caledonia",6.47,6.7,05-12-2018 06:43,no intensity,moderate,yes,us,0,2.679,31.0,mww,10.0,-22.0629,169.733,"Tadine, New Caledonia",,,670
+"M 7.5 - 166 km ESE of Tadine, New Caledonia",7.4,7.58,05-12-2018 04:18,light,significant,yes,us,0,2.405,18.0,mww,10.0,-21.9496,169.427,"Tadine, New Caledonia",,,871
+"M 7.1 - 1 km SE of Point MacKenzie, Alaska",7.02,7.21,30-11-2018 17:29,very strong,very strong,yes,ak,0,0.0,0.0,mw,46.7,61.3464,-149.955,"Point MacKenzie, Alaska",North America,United States of America,1790
+"M 6.8 - 187 km E of Levuka, Fiji",6.73,6.88,18-11-2018 20:25,no intensity,light,yes,us,0,2.879,39.0,mww,540.0,-17.8735,-178.927,"Levuka, Fiji",,Fiji,711
+"M 6.7 - 120 km NW of Olonkinbyen, Svalbard and Jan Mayen",6.63,6.82,09-11-2018 01:49,light,moderate,yes,us,0,7.853,19.0,mww,10.0,71.6312,-11.2431,"Olonkinbyen, Svalbard and Jan Mayen",,,693
+"M 6.8 - 32 km SW of Lithakiá, Greece",6.69,6.87,25-10-2018 22:54,very strong,strong,no,us,0,2.268,15.0,mww,14.0,37.5203,20.5565,"Lithakiá, Greece",Europe,,954
+"M 6.5 - 237 km SW of Port McNeill, Canada",6.42,6.59,22-10-2018 06:22,very light,moderate,no,us,0,1.692,68.0,mww,10.0,49.297,-129.724,"Port McNeill, Canada",,,655
+"M 6.8 - 210 km SW of Port McNeill, Canada",6.7,6.91,22-10-2018 06:16,moderate,moderate,yes,us,0,1.505,36.0,mww,10.0,49.3346,-129.289,"Port McNeill, Canada",,,776
+"M 6.5 - 223 km SW of Port McNeill, Canada",6.37,6.61,22-10-2018 05:39,light,moderate,yes,us,0,1.611,63.0,mww,10.0,49.2586,-129.412,"Port McNeill, Canada",,,669
+"M 6.5 - 171 km E of Tadine, New Caledonia",6.39,6.61,16-10-2018 01:03,no intensity,moderate,yes,us,0,2.109,22.0,mww,17.0,-21.7427,169.522,"Tadine, New Caledonia",,,650
+"M 6.7 - 269 km WNW of Ozernovskiy, Russia",6.6,6.79,13-10-2018 11:10,no intensity,light,yes,us,0,2.705,17.0,mww,461.0,52.8549,153.243,"Ozernovskiy, Russia",,,691
+"M 6.5 - 154 km S of Severo-Kuril’sk, Russia",6.4,6.63,10-10-2018 23:16,no intensity,moderate,yes,us,0,3.923,14.0,mww,20.0,49.2902,156.297,"Severo-Kuril’sk, Russia",,,650
+"M 7.0 - 119 km E of Kimbe, Papua New Guinea",6.92,7.09,10-10-2018 20:48,significant,significant,yes,us,0,1.778,18.0,mww,39.0,-5.7012,151.205,"Kimbe, Papua New Guinea",,Papua New Guinea,758
+"M 6.7 - 279 km E of Levuka, Fiji",6.56,6.79,30-09-2018 10:52,very light,light,yes,us,0,3.745,23.0,mww,550.0,-18.3604,-178.063,"Levuka, Fiji",,Fiji,691
+"M 7.5 - 72 km N of Palu, Indonesia",7.39,7.62,28-09-2018 10:02,very strong,very strong,no,us,0,1.649,13.0,mww,20.0,-0.2559,119.846,"Palu, Indonesia",,Indonesia,2026
+M 6.5 - south of the Fiji Islands,6.41,6.6,16-09-2018 21:11,moderate,extremely light,no,us,0,5.139,18.0,mww,576.0,-25.415,178.199,the Fiji Islands,,,651
+M 6.9 - Kermadec Islands region,6.79,7.04,10-09-2018 04:19,light,moderate,no,us,0,2.785,18.0,mww,115.0,-31.7447,-179.373,Kermadec Islands region,,,735
+"M 6.5 - 66 km NW of Kirakira, Solomon Islands",6.4,6.61,09-09-2018 19:31,light,significant,yes,us,0,1.638,25.0,mww,68.0,-10.0207,161.503,"Kirakira, Solomon Islands",,Solomon Islands,651
+"M 7.9 - 45 km S of Levuka, Fiji",7.83,8.04,06-09-2018 15:49,strong,moderate,yes,us,0,1.431,12.0,mww,670.81,-18.4743,179.35,"Levuka, Fiji",,Fiji,979
+"M 6.6 - 27 km ESE of Chitose, Japan",6.5,6.72,05-09-2018 18:07,very strong,extremely strong,yes,us,0,1.13,32.0,mww,35.0,42.6861,141.929,"Chitose, Japan",Asia,Japan,1075
+"M 7.1 - 238 km ESE of Tadine, New Caledonia",6.99,7.24,29-08-2018 03:51,very light,average,yes,us,0,2.548,23.0,mww,21.43,-22.0295,170.126,"Tadine, New Caledonia",,,776
+"M 7.1 - 136 km W of Iñapari, Peru",7.01,7.19,24-08-2018 09:04,no intensity,light,no,us,0,3.77,12.0,mww,630.0,-11.0355,-70.8284,"Iñapari, Peru",South America,Peru,776
+"M 6.5 - 78 km E of Lakatoro, Vanuatu",6.38,6.63,21-08-2018 22:32,significant,strong,yes,us,0,4.797,10.0,mww,9.0,-16.0315,168.143,"Lakatoro, Vanuatu",,Vanuatu,652
+"M 7.3 - 40 km ENE of Carúpano, Venezuela",7.17,7.4,21-08-2018 21:31,very strong,significant,yes,us,0,1.822,15.0,mww,146.82,10.7731,-62.9019,"Carúpano, Venezuela",,Venezuela,1570
+"M 6.9 - 20 km NNW of Labuan Lombok, Indonesia",6.8,7.02,19-08-2018 14:56,strong,strong,no,us,0,2.453,31.0,mww,21.0,-8.319,116.627,"Labuan Lombok, Indonesia",,Indonesia,1206
+"M 8.2 - 267 km E of Levuka, Fiji",8.13,8.33,19-08-2018 00:19,average,moderate,yes,us,0,3.63,13.0,mww,600.0,-18.1125,-178.153,"Levuka, Fiji",,Fiji,1050
+"M 6.5 - 124 km N of Labuan Bajo, Indonesia",6.37,6.6,17-08-2018 15:35,average,light,no,us,0,2.719,23.0,mww,529.0,-7.3718,119.802,"Labuan Bajo, Indonesia",,Indonesia,743
+"M 6.5 - 108 km WSW of Adak, Alaska",6.4,6.64,15-08-2018 21:56,significant,significant,yes,us,0,0.576,22.0,mww,33.93,51.4234,-178.026,"Adak, Alaska",North America,United States of America,655
+"M 6.9 - 36 km NW of Labuan Lombok, Indonesia",6.8,6.98,05-08-2018 11:46,extremely strong,very strong,no,us,0,2.271,15.0,mww,34.0,-8.2581,116.438,"Labuan Lombok, Indonesia",,Indonesia,1704
+"M 6.9 - 18 km SSW of Leilani Estates, Hawaii",6.81,6.98,04-05-2018 22:32,strong,very strong,yes,hv,63,0.11,210.0,mw,5.81,19.3182,-155.0,"Leilani Estates, Hawaii",,United States of America,1392
+"M 6.8 - 38 km SE of Boyuibe, Bolivia",6.72,6.93,02-04-2018 13:40,average,light,no,us,0,5.32,16.0,mww,559.0,-20.6588,-63.0058,"Boyuibe, Bolivia",South America,Bolivia,733
+"M 6.9 - 150 km E of Kimbe, Papua New Guinea",6.8,7.03,29-03-2018 21:25,extremely strong,significant,yes,us,0,1.487,18.0,mww,35.0,-5.5321,151.5,"Kimbe, Papua New Guinea",,Papua New Guinea,741
+"M 6.7 - 140 km E of Kimbe, Papua New Guinea",6.62,6.8,26-03-2018 09:51,average,significant,yes,us,0,1.507,15.0,mww,40.0,-5.5024,151.402,"Kimbe, Papua New Guinea",,Papua New Guinea,696
+"M 6.8 - 103 km E of Kokopo, Papua New Guinea",6.71,6.87,08-03-2018 17:39,significant,significant,yes,us,0,1.049,16.0,mww,22.86,-4.3762,153.2,"Kokopo, Papua New Guinea",,Papua New Guinea,719
+"M 6.7 - 62 km SW of Tari, Papua New Guinea",6.57,6.83,06-03-2018 14:13,very strong,strong,yes,us,0,5.457,19.0,mww,20.49,-6.3043,142.612,"Tari, Papua New Guinea",,Papua New Guinea,697
+"M 7.5 - 32 km SW of Tari, Papua New Guinea",7.37,7.63,25-02-2018 17:44,extremely strong,very strong,yes,us,0,5.48,17.0,mww,25.21,-6.0699,142.754,"Tari, Papua New Guinea",,Papua New Guinea,943
+"M 7.2 - 4 km S of Pinotepa de Don Luis, Mexico",7.08,7.27,16-02-2018 23:39,strong,strong,yes,us,0,0.142,82.0,mww,22.0,16.3855,-97.9787,"Pinotepa de Don Luis, Mexico",North America,Mexico,1384
+"M 7.9 - 261 km SE of Chiniak, Alaska",7.8,8.01,23-01-2018 09:31,extremely strong,moderate,yes,us,0,2.585,30.0,mww,14.06,56.0039,-149.166,"Chiniak, Alaska",,,1870
+"M 7.1 - 37 km W of Atiquipa, Peru",7.03,7.21,14-01-2018 09:18,extremely strong,strong,yes,us,0,4.29,23.0,mww,39.0,-15.7675,-74.7092,"Atiquipa, Peru",,Peru,1075
+"M 7.5 - 203 km NNE of Barra Patuca, Honduras",7.4,7.63,10-01-2018 02:51,very strong,average,yes,us,0,4.581,12.0,mww,19.0,17.4825,-83.52,"Barra Patuca, Honduras",,,1623
+"M 6.5 - 12 km SSW of Kawalu, Indonesia",6.41,6.57,15-12-2017 16:47,very strong,strong,no,us,0,2.365,28.0,mww,90.0,-7.4921,108.174,"Kawalu, Indonesia",,Indonesia,998
+M 6.5 - Bouvet Island region,6.38,6.62,13-12-2017 18:03,extremely light,average,yes,us,0,17.654,23.0,mww,17.0,-54.2189,2.1628,Bouvet Island region,,,651
+"M 7.0 - 85 km ENE of Tadine, New Caledonia",6.88,7.11,19-11-2017 22:43,moderate,significant,yes,us,0,0.617,14.0,mww,10.0,-21.3246,168.671,"Tadine, New Caledonia",,,771
+"M 6.6 - 74 km E of Tadine, New Caledonia",6.47,6.7,19-11-2017 15:09,moderate,average,yes,us,0,0.529,21.0,mww,13.0,-21.5027,168.598,"Tadine, New Caledonia",,,676
+"M 6.5 - 18 km W of Parrita, Costa Rica",6.36,6.6,13-11-2017 02:28,very strong,very strong,yes,us,0,0.225,37.0,mww,19.36,9.5147,-84.4865,"Parrita, Costa Rica",,Costa Rica,1153
+"M 7.3 - 29 km S of ?alabja, Iraq",7.2,7.42,12-11-2017 18:18,very strong,extremely strong,no,us,0,0.284,33.0,mww,19.0,34.9109,45.9592,"?alabja, Iraq",Asia,Iran,2790
+"M 6.5 - 67 km WSW of Angoram, Papua New Guinea",6.37,6.59,07-11-2017 21:26,significant,average,yes,us,0,4.449,10.0,mww,110.57,-4.2433,143.485,"Angoram, Papua New Guinea",,Papua New Guinea,661
+"M 6.8 - 97 km NE of Hihifo, Tonga",6.72,6.93,04-11-2017 09:00,average,average,yes,us,0,4.852,21.0,mww,10.0,-15.3197,-173.168,"Hihifo, Tonga",,,727
+"M 6.6 - 101 km E of Tadine, New Caledonia",6.51,6.67,01-11-2017 02:23,light,average,yes,us,0,0.788,29.0,mww,22.0,-21.6484,168.859,"Tadine, New Caledonia",,,674
+"M 6.7 - 132 km E of Tadine, New Caledonia",6.57,6.78,31-10-2017 00:42,light,moderate,yes,us,0,1.062,55.0,mww,24.0,-21.6971,169.148,"Tadine, New Caledonia",,,691
+"M 6.7 - 181 km NNE of Maumere, Indonesia",6.6,6.81,24-10-2017 10:47,light,light,no,us,0,1.634,16.0,mww,553.81,-7.2168,123.074,"Maumere, Indonesia",,Indonesia,694
+"M 6.5 - 247 km ESE of Attu Station, Alaska",6.37,6.62,08-10-2017 22:34,light,average,yes,us,0,1.154,11.0,mww,119.0,52.3909,176.769,"Attu Station, Alaska",North America,,651
+"M 7.1 - 1 km S of Matzaco, Mexico",6.97,7.23,19-09-2017 18:14,extremely strong,very strong,no,us,0,0.984,23.0,mww,48.0,18.5499,-98.4887,"Matzaco, Mexico",North America,Mexico,1686
+"M 8.2 - near the coast of Chiapas, Mexico",8.08,8.34,08-09-2017 04:49,extremely strong,strong,yes,us,0,0.944,22.0,mww,47.39,15.0222,-93.8993,"Chiapas, Mexico",,,2910
+"M 6.5 - 168 km SW of Mawu, China",6.4,6.6,08-08-2017 13:19,average,strong,no,us,0,11.411,22.0,mww,9.0,33.1926,103.855,"Mawu, China",Asia,People's Republic of China,707
+"M 6.6 - 11 km ENE of Kos, Greece",6.48,6.72,20-07-2017 22:31,strong,strong,no,us,0,0.913,16.0,mww,7.0,36.9293,27.4139,"Kos, Greece",Asia,Turkey,1064
+"M 7.7 - Komandorskiye Ostrova, Russia region",7.56,7.78,17-07-2017 23:34,very strong,strong,yes,us,0,3.564,13.0,mww,10.0,54.4434,168.857,"Komandorskiye Ostrova, Russia region",,,918
+"M 6.6 - Auckland Islands, New Zealand region",6.51,6.73,11-07-2017 07:00,average,moderate,yes,us,0,3.773,37.0,mww,10.0,-49.4837,164.016,"Auckland Islands, New Zealand region",,,704
+"M 6.5 - 2 km S of Lim-oo, Philippines",6.39,6.6,06-07-2017 08:03,extremely strong,very strong,yes,us,0,4.139,30.0,mww,9.0,11.1269,124.629,"Lim-oo, Philippines",,Philippines,740
+"M 6.8 - 28 km SW of Puerto San José, Guatemala",6.68,6.9,22-06-2017 12:31,significant,significant,yes,us,0,1.065,38.0,mww,38.12,13.7174,-90.9718,"Puerto San José, Guatemala",,,1034
+"M 6.9 - 2 km SSW of San Pablo, Guatemala",6.79,6.98,14-06-2017 07:29,very strong,significant,yes,us,0,0.247,35.0,mww,93.0,14.9091,-92.0092,"San Pablo, Guatemala",,Guatemala,1188
+"M 6.8 - 200 km NW of Attu Station, Alaska",6.66,6.89,02-06-2017 22:24,no intensity,moderate,yes,us,0,2.308,12.0,mww,5.0,54.0312,170.92,"Attu Station, Alaska",,,711
+"M 6.6 - 37 km WNW of Poso, Indonesia",6.49,6.73,29-05-2017 14:35,strong,strong,no,us,0,2.353,18.0,mww,12.0,-1.2923,120.431,"Poso, Indonesia",,Indonesia,678
+M 6.5 - South Sandwich Islands region,6.41,6.64,10-05-2017 23:23,no intensity,moderate,yes,us,0,6.489,17.0,mww,15.0,-56.414,-25.7432,South Sandwich Islands region,,,650
+"M 6.8 - 59 km NNE of Port-Olry, Vanuatu",6.7,6.91,09-05-2017 13:52,significant,average,yes,us,0,7.495,19.0,mww,169.0,-14.5884,167.377,"Port-Olry, Vanuatu",,Vanuatu,713
+"M 6.9 - 31 km SW of Burias, Philippines",6.78,7.02,28-04-2017 20:23,extremely strong,significant,yes,us,0,1.636,14.0,mww,26.0,5.5043,125.066,"Burias, Philippines",,Philippines,814
+"M 6.9 - 40 km W of Valparaíso, Chile",6.8,7.02,24-04-2017 21:38,extremely strong,strong,yes,us,0,0.356,39.0,mww,28.0,-33.0375,-72.0617,"Valparaíso, Chile",,,1642
+"M 6.5 - 132 km WSW of Moijabana, Botswana",6.38,6.57,03-04-2017 17:40,strong,very strong,no,us,0,2.36,15.0,mww,29.0,-22.6784,25.1558,"Moijabana, Botswana",Africa,Botswana,1297
+"M 6.6 - 81 km NNE of Ust’-Kamchatsk Staryy, Russia",6.47,6.73,29-03-2017 04:09,significant,strong,yes,us,0,4.591,14.0,mww,17.0,56.9401,162.786,"Ust’-Kamchatsk Staryy, Russia",Asia,Russia,671
+M 6.9 - south of the Fiji Islands,6.8,7.01,24-02-2017 17:28,very light,light,yes,us,0,6.012,19.0,mww,414.5,-23.2593,-178.804,the Fiji Islands,,,733
+"M 6.5 - 41 km E of Padilla, Bolivia",6.39,6.61,21-02-2017 14:09,light,light,no,us,0,4.242,14.0,mww,595.98,-19.2814,-63.9047,"Padilla, Bolivia",South America,Bolivia,653
+"M 6.5 - 11 km N of Mabua, Philippines",6.39,6.61,10-02-2017 14:03,very strong,strong,yes,us,0,2.822,36.0,mww,15.0,9.9071,125.452,"Mabua, Philippines",,Philippines,718
+"M 7.9 - 35 km WNW of Panguna, Papua New Guinea",7.79,8.0,22-01-2017 04:30,extremely strong,strong,yes,us,0,3.625,9.0,mww,135.0,-6.2464,155.172,"Panguna, Papua New Guinea",,Papua New Guinea,987
+"M 6.5 - 65 km W of Kirakira, Solomon Islands",6.42,6.58,19-01-2017 23:04,significant,significant,yes,us,0,1.64,21.0,mww,36.0,-10.3506,161.335,"Kirakira, Solomon Islands",,Solomon Islands,654
+"M 7.3 - 189 km SSE of Tabiauan, Philippines",7.2,7.4,10-01-2017 06:13,significant,light,yes,us,0,3.813,18.0,mww,627.17,4.4782,122.617,"Tabiauan, Philippines",,,849
+"M 6.9 - 225 km SW of Nadi, Fiji",6.83,7.02,03-01-2017 21:52,significant,moderate,yes,us,0,2.495,13.0,mww,12.0,-19.3733,176.052,"Nadi, Fiji",,,742
+"M 7.6 - 41 km SW of Quellón, Chile",7.49,7.72,25-12-2016 14:22,extremely strong,very strong,yes,us,0,0.355,29.0,mww,38.0,-43.4064,-73.9413,"Quellón, Chile",South America,Chile,1152
+"M 6.7 - 151 km NE of Lospalos, Timor Leste",6.6,6.81,21-12-2016 00:17,average,average,no,us,0,3.38,17.0,mww,152.0,-7.5082,127.921,"Lospalos, Timor Leste",,Indonesia,726
+"M 7.9 - 140 km E of Kokopo, Papua New Guinea",7.8,8.01,17-12-2016 10:51,extremely strong,strong,yes,us,0,1.389,13.0,mww,94.54,-4.5049,153.522,"Kokopo, Papua New Guinea",,Papua New Guinea,972
+"M 6.9 - 92 km WSW of Kirakira, Solomon Islands",6.81,6.97,09-12-2016 19:10,very strong,significant,yes,us,0,1.747,26.0,mww,19.73,-10.749,161.132,"Kirakira, Solomon Islands",,,737
+"M 6.5 - 79 km WSW of Kirakira, Solomon Islands",6.36,6.63,08-12-2016 21:56,no intensity,average,no,us,0,1.937,18.0,mww,12.26,-10.8416,161.314,"Kirakira, Solomon Islands",,,650
+"M 7.8 - 69 km WSW of Kirakira, Solomon Islands",7.67,7.91,08-12-2016 17:38,extremely strong,very strong,yes,us,0,1.836,13.0,mww,40.0,-10.6812,161.327,"Kirakira, Solomon Islands",,Solomon Islands,961
+"M 6.6 - 164 km W of Ferndale, California",6.51,6.71,08-12-2016 14:49,average,moderate,yes,us,0,1.405,55.0,mww,8.45,40.4535,-126.194,"Ferndale, California",,,1120
+"M 6.5 - 14 km WNW of Reuleuet, Indonesia",6.41,6.62,06-12-2016 22:03,extremely strong,very strong,no,us,0,0.778,27.0,mww,13.0,5.2834,96.1678,"Reuleuet, Indonesia",,Indonesia,731
+"M 6.6 - 122 km N of Murghob, Tajikistan",6.48,6.71,25-11-2016 14:24,very strong,strong,no,us,0,1.697,20.0,mww,17.0,39.2732,73.9776,"Murghob, Tajikistan",Asia,People's Republic of China,693
+"M 6.9 - 156 km SSW of Puerto El Triunfo, El Salvador",6.8,7.03,24-11-2016 18:43,average,moderate,yes,us,0,1.796,20.0,mww,10.0,11.9097,-88.8968,"Puerto El Triunfo, El Salvador",,,855
+"M 6.9 - 35 km ESE of Namie, Japan",6.81,6.97,21-11-2016 20:59,extremely strong,significant,yes,us,0,0.671,10.0,mww,9.0,37.3931,141.387,"Namie, Japan",Asia,,1144
+"M 6.5 - 74 km NE of Amberley, New Zealand",6.37,6.57,14-11-2016 00:34,strong,strong,yes,us,0,0.283,56.0,mww,9.0,-42.6058,173.254,"Amberley, New Zealand",,New Zealand,664
+"M 6.5 - 92 km SSW of Blenheim, New Zealand",6.41,6.6,13-11-2016 11:32,significant,strong,yes,us,0,0.135,58.0,mww,10.0,-42.3205,173.669,"Blenheim, New Zealand",,New Zealand,656
+"M 7.8 - 53 km NNE of Amberley, New Zealand",7.72,7.87,13-11-2016 11:02,extremely strong,extremely strong,yes,us,0,0.481,21.0,mww,15.11,-42.7373,173.054,"Amberley, New Zealand",,New Zealand,1545
+"M 6.6 - 5 km ESE of Preci, Italy",6.49,6.72,30-10-2016 06:40,extremely strong,very strong,no,us,0,0.174,25.0,mww,8.0,42.8621,13.0961,"Preci, Italy",Europe,Italy,2840
+"M 6.6 - 161 km NNE of Pamanukan, Indonesia",6.49,6.72,19-10-2016 00:26,light,light,no,us,0,2.022,16.0,mww,614.0,-4.8626,108.163,"Pamanukan, Indonesia",,Indonesia,677
+"M 6.8 - 76 km WNW of Kandrian, Papua New Guinea",6.72,6.94,17-10-2016 06:14,light,significant,yes,us,0,3.727,11.0,mww,42.0,-6.0033,148.887,"Kandrian, Papua New Guinea",,Papua New Guinea,716
+M 6.9 - Fiji region,6.81,7.03,24-09-2016 21:28,very light,light,yes,us,0,4.051,9.0,mww,596.4,-19.7819,-178.244,Fiji region,,Fiji,733
+"M 7.0 - 175 km NE of Gisborne, New Zealand",6.91,7.1,01-09-2016 16:37,average,significant,yes,us,0,0.698,21.0,mww,19.0,-37.3586,179.146,"Gisborne, New Zealand",,,897
+"M 6.8 - 90 km NE of Rabaul, Papua New Guinea",6.66,6.91,31-08-2016 03:11,moderate,light,yes,us,0,0.803,12.0,mww,476.0,-3.6849,152.792,"Rabaul, Papua New Guinea",,Papua New Guinea,713
+"M 6.8 - 26 km W of Chauk, Myanmar",6.69,6.93,24-08-2016 10:34,significant,significant,no,us,0,1.802,17.0,mww,82.0,20.9228,94.569,"Chauk, Myanmar",Asia,Myanmar,981
+M 7.2 - southeast of the Loyalty Islands,7.1,7.33,12-08-2016 01:26,significant,average,yes,us,0,4.823,14.0,mww,16.37,-22.4765,173.117,the Loyalty Islands,,,799
+"M 7.7 - Pagan region, Northern Mariana Islands",7.56,7.79,29-07-2016 21:18,average,significant,yes,us,0,3.294,14.0,mww,196.0,18.5429,145.507,"Pagan region, Northern Mariana Islands",,,971
+"M 6.6 - 80 km W of Sungai Penuh, Indonesia",6.51,6.7,01-06-2016 22:56,moderate,significant,no,us,0,2.435,16.0,mww,50.0,-2.0967,100.665,"Sungai Penuh, Indonesia",,Indonesia,671
+M 7.2 - South Sandwich Islands region,7.08,7.29,28-05-2016 09:46,extremely light,significant,yes,us,0,5.803,24.0,mww,78.0,-56.2409,-26.9353,South Sandwich Islands region,,,798
+M 6.9 - ,6.77,7.03,28-05-2016 05:38,light,light,yes,us,0,5.485,19.0,mww,405.69,-21.9724,-178.204,,,,733
+"M 6.9 - 24 km NW of Rosa Zarate, Ecuador",6.83,6.98,18-05-2016 16:46,very strong,strong,yes,us,0,1.192,17.0,mww,29.95,0.4947,-79.616,"Rosa Zarate, Ecuador",South America,Ecuador,780
+"M 6.7 - 32 km SE of Muisne, Ecuador",6.61,6.77,18-05-2016 07:57,average,strong,yes,us,0,1.352,21.0,mww,16.0,0.4261,-79.7899,"Muisne, Ecuador",South America,Ecuador,744
+"M 7.0 - 3 km NW of Norsup, Vanuatu",6.9,7.12,28-04-2016 19:33,strong,strong,yes,us,0,0.616,14.0,mww,24.0,-16.0429,167.379,"Norsup, Vanuatu",,Vanuatu,755
+"M 7.8 - 27 km SSE of Muisne, Ecuador",7.7,7.88,16-04-2016 23:58,extremely strong,extremely strong,yes,us,0,1.44,15.0,mww,20.59,0.3819,-79.9218,"Muisne, Ecuador",South America,Ecuador,1163
+"M 7.0 - 6 km ESE of Kumamoto, Japan",6.92,7.08,15-04-2016 16:25,extremely strong,extremely strong,yes,us,0,0.349,32.0,mww,10.0,32.7906,130.754,"Kumamoto, Japan",Asia,Japan,2074
+"M 6.9 - 76 km SE of Mawlaik, Myanmar",6.78,7.01,13-04-2016 13:55,significant,significant,no,us,0,3.001,14.0,mww,136.0,23.0944,94.8654,"Mawlaik, Myanmar",Asia,Myanmar,903
+"M 6.6 - 42 km WSW of Ashk?sham, Afghanistan",6.48,6.72,10-04-2016 10:28,significant,moderate,no,us,0,0.789,17.0,mww,212.0,36.4725,71.1311,"Ashk?sham, Afghanistan",Asia,Afghanistan,738
+"M 6.7 - 104 km W of Sola, Vanuatu",6.63,6.82,07-04-2016 03:32,strong,average,yes,us,0,6.787,25.0,mww,27.59,-13.9805,166.594,"Sola, Vanuatu",,Vanuatu,692
+"M 6.7 - 102 km WSW of Sola, Vanuatu",6.61,6.8,06-04-2016 06:58,strong,significant,yes,us,0,6.697,19.0,mww,24.0,-14.0683,166.624,"Sola, Vanuatu",,Vanuatu,691
+"M 6.9 - 82 km NNW of Port-Olry, Vanuatu",6.83,7.0,03-04-2016 08:23,strong,significant,yes,us,0,1.166,25.0,mww,26.0,-14.3235,166.855,"Port-Olry, Vanuatu",,Vanuatu,734
+"M 7.8 - southwest of Sumatra, Indonesia",7.71,7.89,02-03-2016 12:49,moderate,light,no,us,0,7.009,20.0,mww,24.0,-4.9521,94.3299,"Sumatra, Indonesia",,,948
+"M 7.2 - 80 km S of Mil’kovo, Russia",7.11,7.31,30-01-2016 03:25,light,strong,yes,us,0,0.958,17.0,mww,177.0,53.9776,158.546,"Mil’kovo, Russia",Asia,Russia,799
+"M 7.1 - 47 km ESE of Pedro Bay, Alaska",6.98,7.19,24-01-2016 10:30,strong,strong,yes,ak,0,0.0,0.0,mw,125.6,59.6204,-153.339,"Pedro Bay, Alaska",North America,United States of America,1496
+"M 6.6 - 203 km SW of La Cruz de Loreto, Mexico",6.5,6.73,21-01-2016 18:06,light,moderate,yes,us,0,2.413,74.0,mww,10.0,18.8239,-106.934,"La Cruz de Loreto, Mexico",,,673
+"M 6.7 - 52 km SE of Shizunai-furukawach?, Japan",6.57,6.77,14-01-2016 03:25,average,significant,yes,us,0,0.281,22.0,mww,46.0,41.9723,142.781,"Shizunai-furukawach?, Japan",Asia,Japan,717
+"M 6.5 - 227 km SE of Sarangani, Philippines",6.38,6.59,11-01-2016 16:38,light,significant,yes,us,0,3.144,22.0,mww,13.0,3.8965,126.862,"Sarangani, Philippines",,Indonesia,651
+"M 6.7 - 29 km W of Imph?l, India",6.57,6.8,03-01-2016 23:05,very strong,strong,no,us,0,1.794,16.0,mww,55.0,24.8036,93.6505,"Imph?l, India",Asia,India,1515
+"M 6.6 - 4 km W of Manuel Ávila Camacho (Ponte Duro), Mexico",6.52,6.67,17-12-2015 19:49,very strong,significant,yes,us,0,0.41,35.0,mww,85.0,15.8015,-93.633,"Manuel Ávila Camacho (Ponte Duro), Mexico",,Mexico,765
+"M 6.9 - 107 km SE of Amahai, Indonesia",6.78,7.01,09-12-2015 10:21,very strong,average,no,us,0,2.979,14.0,mww,21.0,-4.1064,129.508,"Amahai, Indonesia",,Indonesia,738
+"M 7.2 - 104 km W of Murghob, Tajikistan",7.08,7.33,07-12-2015 07:50,moderate,strong,no,us,0,1.116,18.0,mww,22.0,38.2107,72.7797,"Murghob, Tajikistan",Asia,Tajikistan,827
+"M 6.7 - 125 km SSW of Tarauacá, Brazil",6.58,6.8,26-11-2015 05:45,very light,light,no,us,0,2.033,19.0,mww,602.75,-9.1825,-71.2574,"Tarauacá, Brazil",South America,Brazil,691
+"M 7.6 - 185 km WNW of Iñapari, Peru",7.53,7.71,24-11-2015 22:50,average,moderate,no,us,0,2.852,10.0,mww,620.56,-10.0598,-71.0184,"Iñapari, Peru",South America,Peru,896
+"M 7.6 - 155 km WNW of Iñapari, Peru",7.5,7.73,24-11-2015 22:45,significant,average,yes,us,0,3.287,10.0,mww,606.21,-10.5372,-70.9437,"Iñapari, Peru",South America,Peru,957
+"M 6.8 - 153 km WSW of Buala, Solomon Islands",6.73,6.92,18-11-2015 18:31,average,significant,yes,us,0,1.599,19.0,mww,12.59,-8.8994,158.422,"Buala, Solomon Islands",,Solomon Islands,715
+"M 6.5 - 19 km SSW of Lefkáda, Greece",6.37,6.6,17-11-2015 07:10,strong,strong,no,us,0,0.0,0.0,mww,11.0,38.67,20.6,"Lefkáda, Greece",Europe,Greece,1018
+"M 6.7 - 140 km WSW of Makurazaki, Japan",6.57,6.8,13-11-2015 20:51,average,moderate,no,us,0,1.444,17.0,mww,12.0,31.0009,128.873,"Makurazaki, Japan",,,702
+"M 6.9 - 85 km NW of Coquimbo, Chile",6.8,7.03,11-11-2015 02:46,average,significant,no,us,0,0.821,43.0,mww,10.0,-29.5097,-72.0585,"Coquimbo, Chile",,,744
+"M 6.9 - 81 km NW of Coquimbo, Chile",6.82,7.0,11-11-2015 01:54,significant,significant,yes,us,0,0.784,32.0,mww,12.0,-29.5067,-72.0068,"Coquimbo, Chile",,,761
+"M 6.6 - Nicobar Islands, India region",6.47,6.71,08-11-2015 16:47,strong,moderate,no,us,0,2.792,31.0,mww,10.0,6.8431,94.648,"Nicobar Islands, India region",,,675
+"M 6.8 - 39 km SW of Ovalle, Chile",6.72,6.89,07-11-2015 07:31,strong,strong,yes,us,0,0.258,41.0,mww,46.0,-30.8796,-71.4519,"Ovalle, Chile",South America,Chile,841
+"M 6.5 - 47 km NW of Maubara, Timor Leste",6.43,6.6,04-11-2015 03:44,average,strong,no,us,0,1.53,21.0,mww,20.0,-8.3381,124.875,"Maubara, Timor Leste",,Indonesia,657
+"M 7.5 - Hindu Kush region, Afghanistan",7.4,7.62,26-10-2015 09:09,very strong,strong,no,us,0,0.622,18.0,mww,231.0,36.5244,70.3676,"Hindu Kush region, Afghanistan",Asia,Afghanistan,1448
+"M 7.1 - 31 km NE of Port-Olry, Vanuatu",6.96,7.24,20-10-2015 21:52,significant,significant,yes,us,0,0.592,11.0,mww,135.0,-14.8595,167.303,"Port-Olry, Vanuatu",,Vanuatu,780
+"M 6.6 - 28 km N of Sorong, Indonesia",6.47,6.69,24-09-2015 15:53,strong,strong,no,us,0,2.486,13.0,mww,18.0,-0.6212,131.262,"Sorong, Indonesia",,Indonesia,671
+"M 6.6 - 22 km WSW of Illapel, Chile",6.53,6.72,21-09-2015 17:40,average,strong,yes,us,0,1.064,14.0,mww,35.0,-31.7275,-71.3792,"Illapel, Chile",South America,Chile,820
+"M 6.7 - 61 km WNW of Illapel, Chile",6.61,6.78,17-09-2015 04:10,average,strong,no,us,0,0.853,35.0,mww,23.0,-31.5173,-71.804,"Illapel, Chile",,Chile,718
+"M 6.5 - 54 km WNW of Illapel, Chile",6.42,6.6,17-09-2015 03:55,significant,strong,no,us,0,0.749,62.0,mww,27.0,-31.4244,-71.6876,"Illapel, Chile",,Chile,657
+"M 7.0 - 25 km WNW of Illapel, Chile",6.87,7.08,16-09-2015 23:18,very strong,strong,no,us,0,0.903,13.0,mww,28.41,-31.5622,-71.4262,"Illapel, Chile",South America,Chile,799
+"M 8.3 - 48 km W of Illapel, Chile",8.23,8.41,16-09-2015 22:54,extremely strong,very strong,yes,us,0,0.684,19.0,mww,22.44,-31.5729,-71.6744,"Illapel, Chile",,Chile,1960
+"M 6.7 - 95 km SW of Topolobampo, Mexico",6.6,6.79,13-09-2015 08:14,average,average,yes,us,0,1.256,123.0,mww,10.0,24.913,-109.623,"Topolobampo, Mexico",,,708
+"M 6.5 - 177 km SE of Gizo, Solomon Islands",6.39,6.62,12-08-2015 18:49,no intensity,average,yes,us,0,2.045,16.0,mww,6.43,-9.3293,157.877,"Gizo, Solomon Islands",,,650
+"M 6.6 - 186 km WNW of Malango, Solomon Islands",6.52,6.73,10-08-2015 04:12,light,average,yes,us,0,1.872,20.0,mww,22.0,-9.3438,158.053,"Malango, Solomon Islands",,,671
+"M 7.0 - 234 km W of Abepura, Indonesia",6.91,7.14,27-07-2015 21:41,extremely strong,strong,yes,us,0,6.278,12.0,mww,48.0,-2.6286,138.528,"Abepura, Indonesia",,Indonesia,762
+"M 6.9 - Fox Islands, Aleutian Islands, Alaska",6.78,6.98,27-07-2015 04:49,moderate,strong,yes,us,0,0.444,39.0,mww,29.0,52.376,-169.446,"Fox Islands, Aleutian Islands, Alaska",,,734
+"M 7.0 - 80 km WNW of Lata, Solomon Islands",6.9,7.07,18-07-2015 02:27,very strong,significant,yes,us,0,5.205,22.0,mww,11.0,-10.4012,165.141,"Lata, Solomon Islands",,,759
+"M 6.5 - 128 km NE of Bathsheba, Barbados",6.38,6.61,16-07-2015 15:16,moderate,moderate,yes,us,0,1.218,20.0,mww,20.0,13.8672,-58.5479,"Bathsheba, Barbados",,,686
+"M 6.7 - 150 km WNW of Malango, Solomon Islands",6.59,6.8,10-07-2015 04:12,moderate,average,yes,us,0,1.529,11.0,mww,12.0,-9.307,158.403,"Malango, Solomon Islands",,Solomon Islands,691
+"M 6.5 - Bonin Islands, Japan region",6.4,6.63,23-06-2015 12:18,light,moderate,no,us,0,2.277,11.0,mww,460.0,27.7375,139.725,"Bonin Islands, Japan region",,,652
+"M 7.8 - Bonin Islands, Japan region",7.68,7.93,30-05-2015 11:23,significant,light,yes,us,0,1.675,12.0,mww,664.0,27.8386,140.493,"Bonin Islands, Japan region",,,1151
+"M 6.8 - 117 km SSE of Ugashik, Alaska",6.72,6.92,29-05-2015 07:00,average,significant,yes,ak,0,0.0,0.0,mw,72.6,56.594,-156.43,"Ugashik, Alaska",,,762
+"M 6.8 - 159 km ESE of Kirakira, Solomon Islands",6.69,6.87,22-05-2015 23:59,extremely light,average,yes,us,0,3.619,18.0,mww,10.0,-11.1093,163.215,"Kirakira, Solomon Islands",,,711
+"M 6.9 - 205 km ESE of Kirakira, Solomon Islands",6.76,7.01,22-05-2015 21:45,extremely light,moderate,yes,us,0,4.024,22.0,mww,11.19,-11.0559,163.696,"Kirakira, Solomon Islands",,,732
+"M 6.8 - 178 km W of Lata, Solomon Islands",6.7,6.91,20-05-2015 22:48,extremely light,moderate,yes,us,0,4.395,15.0,mww,11.0,-10.8759,164.169,"Lata, Solomon Islands",,,711
+"M 6.8 - 32 km SE of ?funato, Japan",6.73,6.92,12-05-2015 21:12,very strong,significant,yes,us,0,1.422,8.0,mww,35.0,38.9056,142.032,"?funato, Japan",Asia,Japan,831
+M 7.3 - Nepal,7.21,7.38,12-05-2015 07:05,very strong,strong,no,us,0,0.677,11.0,mww,15.0,27.8087,86.0655,Nepal,Asia,Nepal,1563
+"M 7.1 - 143 km SW of Panguna, Papua New Guinea",6.98,7.18,07-05-2015 07:10,extremely light,significant,yes,us,0,3.835,11.0,mww,10.0,-7.2175,154.557,"Panguna, Papua New Guinea",,,776
+"M 7.5 - 131 km SSW of Kokopo, Papua New Guinea",7.41,7.63,05-05-2015 01:44,strong,very strong,yes,us,0,1.295,22.0,mww,55.0,-5.4624,151.875,"Kokopo, Papua New Guinea",,Papua New Guinea,869
+"M 6.8 - 109 km SSW of Kokopo, Papua New Guinea",6.67,6.88,01-05-2015 08:06,average,significant,yes,us,0,1.074,23.0,mww,44.0,-5.2005,151.777,"Kokopo, Papua New Guinea",,Papua New Guinea,714
+"M 6.7 - 126 km SSW of Kokopo, Papua New Guinea",6.57,6.81,30-04-2015 10:45,average,significant,yes,us,0,1.239,12.0,mww,31.0,-5.375,151.771,"Kokopo, Papua New Guinea",,Papua New Guinea,692
+"M 6.7 - 21 km SSE of Kod?ri??, Nepal",6.59,6.79,26-04-2015 07:09,strong,strong,no,us,0,0.727,13.0,mww,22.91,27.7711,86.0173,"Kod?ri??, Nepal",Asia,Nepal,1016
+"M 6.6 - 71 km NNE of Bharatpur, Nepal",6.5,6.71,25-04-2015 06:45,very strong,strong,no,us,0,1.778,16.0,mww,10.0,28.2244,84.8216,"Bharatpur, Nepal",Asia,Nepal,733
+"M 7.8 - 67 km NNE of Bharatpur, Nepal",7.66,7.93,25-04-2015 06:11,very strong,extremely strong,no,us,0,1.857,12.0,mww,8.22,28.2305,84.7314,"Bharatpur, Nepal",Asia,Nepal,2820
+"M 6.5 - 181 km SSW of Alo, Wallis and Futuna",6.38,6.61,17-04-2015 15:52,no intensity,average,yes,us,0,3.702,42.0,mww,10.0,-15.8815,-178.6,"Alo, Wallis and Futuna",,,650
+"M 6.5 - 96 km ENE of Hihifo, Tonga",6.41,6.57,30-03-2015 08:48,very light,average,yes,us,0,4.629,36.0,mww,11.0,-15.4994,-173.029,"Hihifo, Tonga",,,650
+"M 7.5 - 53 km SE of Kokopo, Papua New Guinea",7.43,7.6,29-03-2015 23:48,significant,strong,yes,us,0,0.666,19.0,mww,41.0,-4.7294,152.562,"Kokopo, Papua New Guinea",,Papua New Guinea,872
+"M 7.0 - 150 km NNE of Maumere, Indonesia",6.9,7.12,27-02-2015 13:45,moderate,significant,no,us,0,1.362,12.0,mww,552.06,-7.2968,122.535,"Maumere, Indonesia",,Indonesia,760
+"M 6.7 - 83 km ENE of Miyako, Japan",6.62,6.81,16-02-2015 23:06,average,average,yes,us,0,1.925,20.0,mww,23.0,39.8558,142.881,"Miyako, Japan",,,714
+"M 6.7 - 103 km W of El Aguilar, Argentina",6.58,6.81,11-02-2015 18:57,moderate,significant,yes,us,0,2.11,16.0,mww,223.0,-23.1125,-66.688,"El Aguilar, Argentina",South America,Argentina,700
+"M 6.8 - 81 km NNE of Port-Vila, Vanuatu",6.68,6.88,23-01-2015 03:47,extremely light,moderate,yes,us,0,2.019,13.0,mww,219.96,-17.0309,168.52,"Port-Vila, Vanuatu",,Vanuatu,711
+"M 6.5 - 236 km S of Punta de Burica, Panama",6.42,6.61,07-01-2015 05:07,extremely light,moderate,yes,us,0,4.318,61.0,mww,8.0,5.9045,-82.6576,"Punta de Burica, Panama",,,650
+"M 6.6 - 22 km ESE of Punta de Burica, Panama",6.5,6.7,08-12-2014 08:54,strong,significant,yes,us,0,2.485,43.0,mww,20.0,7.9401,-82.6865,"Punta de Burica, Panama",,Panama,709
+"M 6.6 - 115 km W of Panguna, Papua New Guinea",6.5,6.72,07-12-2014 01:22,extremely light,average,yes,us,0,3.246,12.0,mww,23.0,-6.5108,154.46,"Panguna, Papua New Guinea",,,670
+"M 6.6 - 106 km WSW of Sangay, Philippines",6.49,6.74,02-12-2014 05:11,extremely light,light,no,us,0,2.6,9.0,mww,614.0,6.1572,123.126,"Sangay, Philippines",,Philippines,670
+"M 6.8 - 157 km NW of Ternate, Indonesia",6.69,6.93,26-11-2014 14:33,significant,average,yes,us,0,1.421,19.0,mww,39.0,1.9604,126.575,"Ternate, Indonesia",,Indonesia,713
+"M 6.5 - 123 km WNW of Tobelo, Indonesia",6.42,6.61,21-11-2014 10:10,average,average,yes,us,0,1.549,9.0,mww,35.0,2.2999,127.056,"Tobelo, Indonesia",,Indonesia,652
+"M 6.7 - 183 km NE of Gisborne, New Zealand",6.63,6.81,16-11-2014 22:33,strong,moderate,yes,us,0,1.079,25.0,mww,22.0,-37.6478,179.662,"Gisborne, New Zealand",,,698
+"M 7.1 - 155 km NW of Ternate, Indonesia",7.02,7.2,15-11-2014 02:31,moderate,significant,yes,us,0,1.397,18.0,mww,45.0,1.8929,126.522,"Ternate, Indonesia",,Indonesia,779
+"M 6.6 - 76 km NE of Finschhafen, Papua New Guinea",6.51,6.73,07-11-2014 03:33,very light,significant,yes,us,0,3.557,13.0,mww,53.19,-5.9873,148.232,"Finschhafen, Papua New Guinea",,Papua New Guinea,671
+M 7.1 - Fiji region,7.02,7.23,01-11-2014 18:57,light,significant,yes,us,0,4.415,13.0,mww,434.0,-19.6903,-177.759,Fiji region,,,776
+"M 7.3 - 74 km S of Intipucá, El Salvador",7.23,7.4,14-10-2014 03:51,very strong,significant,yes,us,0,1.078,18.0,mww,40.0,12.5262,-88.1225,"Intipucá, El Salvador",,,982
+"M 6.7 - 43 km NW of Piti Village, Guam",6.6,6.8,17-09-2014 06:14,average,average,yes,us,0,0.46,11.0,mww,130.0,13.7641,144.429,"Piti Village, Guam",,,724
+"M 6.8 - 38 km NW of Aniso, Peru",6.67,6.89,24-08-2014 23:21,significant,significant,yes,us,0,4.107,18.0,mww,101.0,-14.598,-73.5714,"Aniso, Peru",South America,Peru,741
+M 6.9 - Federated States of Micronesia region,6.83,6.99,03-08-2014 00:22,no intensity,moderate,yes,us,0,6.393,12.0,mww,13.0,0.8295,146.169,Micronesia region,,,732
+M 6.9 - Fiji region,6.81,6.98,21-07-2014 14:54,no intensity,significant,yes,us,0,3.934,15.0,mww,615.42,-19.8015,-178.4,Fiji region,,Fiji,732
+"M 6.5 - 139 km ESE of Namie, Japan",6.41,6.57,11-07-2014 19:22,average,moderate,yes,us,0,2.421,9.0,mww,20.0,37.0052,142.452,"Namie, Japan",,,706
+"M 6.9 - 4 km W of Puerto Madero, Mexico",6.78,6.97,07-07-2014 11:23,very strong,strong,yes,us,0,0.263,51.0,mww,53.0,14.724,-92.4614,"Puerto Madero, Mexico",,Mexico,1079
+"M 6.5 - 217 km SSE of Kokopo, Papua New Guinea",6.42,6.61,04-07-2014 15:00,no intensity,moderate,yes,us,0,2.124,15.0,mww,20.0,-6.2304,152.807,"Kokopo, Papua New Guinea",,,650
+"M 6.7 - 201 km SSE of Mata-Utu, Wallis and Futuna",6.62,6.8,29-06-2014 17:15,no intensity,average,yes,us,0,6.713,45.0,mww,18.0,-14.9831,-175.51,"Mata-Utu, Wallis and Futuna",,,691
+M 6.9 - South Sandwich Islands region,6.79,6.98,29-06-2014 07:52,no intensity,average,yes,us,0,4.838,25.0,mww,8.0,-55.4703,-28.3669,South Sandwich Islands region,,,732
+"M 7.9 - Rat Islands, Aleutian Islands, Alaska",7.79,8.03,23-06-2014 20:53,significant,very strong,yes,us,0,0.133,22.0,mww,109.0,51.8486,178.735,"Rat Islands, Aleutian Islands, Alaska",North America,United States of America,963
+"M 6.7 - Kermadec Islands, New Zealand",6.58,6.83,23-06-2014 20:06,no intensity,average,no,us,0,0.748,43.0,mwc,26.59,-29.9414,-177.607,"Kermadec Islands, New Zealand",,,691
+"M 6.5 - Kermadec Islands, New Zealand",6.41,6.63,23-06-2014 19:21,no intensity,average,no,us,0,0.778,30.0,mwc,10.0,-29.9379,-177.516,"Kermadec Islands, New Zealand",,,650
+"M 6.9 - Kermadec Islands, New Zealand",6.76,7.03,23-06-2014 19:19,no intensity,average,yes,us,0,0.751,35.0,mww,20.0,-29.9772,-177.725,"Kermadec Islands, New Zealand",,,732
+"M 6.9 - 21 km SSW of Kamariótissa, Greece",6.77,6.98,24-05-2014 09:25,extremely strong,strong,no,us,0,0.402,25.0,mww,6.43,40.2893,25.3889,"Kamariótissa, Greece",Europe,Greece,951
+"M 6.5 - 110 km SE of Punta de Burica, Panama",6.39,6.61,13-05-2014 06:35,strong,average,yes,us,0,3.121,33.0,mww,10.0,7.2096,-82.3045,"Punta de Burica, Panama",,,694
+"M 6.6 - 239 km SSE of Isangel, Vanuatu",6.48,6.73,01-05-2014 06:36,no intensity,average,yes,us,0,3.34,10.0,mww,106.0,-21.4542,170.355,"Isangel, Vanuatu",,,670
+"M 6.5 - 107 km WSW of Vernon, Canada",6.36,6.64,24-04-2014 03:10,moderate,significant,yes,us,0,0.0,0.0,mww,10.0,49.6388,-127.732,"Vernon, Canada",,,838
+"M 7.5 - 70 km SW of Panguna, Papua New Guinea",7.39,7.6,19-04-2014 13:28,no intensity,significant,yes,us,0,3.82,16.0,mww,43.37,-6.7547,155.024,"Panguna, Papua New Guinea",,,865
+"M 6.6 - 57 km SW of Panguna, Papua New Guinea",6.49,6.74,19-04-2014 01:04,no intensity,significant,yes,us,0,3.803,11.0,mww,29.0,-6.6558,155.087,"Panguna, Papua New Guinea",,Papua New Guinea,670
+"M 7.2 - 9 km ENE of Coyuquilla Norte, Mexico",7.08,7.27,18-04-2014 14:27,very strong,strong,yes,us,0,2.25,46.0,mww,24.0,17.397,-100.972,"Coyuquilla Norte, Mexico",North America,Mexico,1017
+"M 6.6 - 75 km S of Kirakira, Solomon Islands",6.5,6.73,13-04-2014 13:24,no intensity,significant,no,us,0,2.666,22.0,mww,10.0,-11.1284,162.052,"Kirakira, Solomon Islands",,,670
+"M 7.4 - 112 km S of Kirakira, Solomon Islands",7.33,7.49,13-04-2014 12:36,no intensity,significant,yes,us,0,2.885,17.0,mww,39.0,-11.4633,162.051,"Kirakira, Solomon Islands",,,842
+"M 7.6 - 93 km SSE of Kirakira, Solomon Islands",7.47,7.68,12-04-2014 20:14,no intensity,strong,yes,us,0,2.828,13.0,mww,22.56,-11.2701,162.148,"Kirakira, Solomon Islands",,,889
+"M 6.6 - 15 km N of Belén, Nicaragua",6.47,6.74,11-04-2014 20:29,significant,average,yes,us,0,0.761,20.0,mww,135.0,11.642,-85.8779,"Belén, Nicaragua",,Nicaragua,677
+"M 6.5 - 78 km SW of Panguna, Papua New Guinea",6.4,6.62,11-04-2014 08:16,no intensity,significant,yes,us,0,3.787,16.0,mww,20.0,-6.7878,154.95,"Panguna, Papua New Guinea",,,650
+"M 7.1 - 56 km WSW of Panguna, Papua New Guinea",6.98,7.2,11-04-2014 07:07,no intensity,strong,yes,us,0,3.729,21.0,mww,60.53,-6.5858,155.048,"Panguna, Papua New Guinea",,Papua New Guinea,776
+"M 7.7 - 53 km SW of Iquique, Chile",7.62,7.78,03-04-2014 02:43,very strong,extremely strong,yes,us,0,1.029,44.0,mww,22.4,-20.5709,-70.4931,"Iquique, Chile",,,1057
+"M 6.5 - 45 km WSW of Iquique, Chile",6.39,6.6,03-04-2014 01:58,strong,strong,no,us,0,0.828,82.0,mww,24.07,-20.3113,-70.5756,"Iquique, Chile",,,670
+"M 6.9 - 90 km WNW of Iquique, Chile",6.78,6.97,01-04-2014 23:57,no intensity,average,no,us,0,0.828,119.0,mww,28.42,-19.8927,-70.9455,"Iquique, Chile",,,732
+"M 8.2 - 93 km NW of Iquique, Chile",8.06,8.32,01-04-2014 23:46,extremely strong,very strong,yes,us,0,0.609,23.0,mww,25.0,-19.6097,-70.7691,"Iquique, Chile",,,1332
+"M 6.7 - 63 km WNW of Iquique, Chile",6.6,6.81,16-03-2014 21:16,strong,strong,yes,us,0,1.008,44.0,mww,20.0,-19.9807,-70.7022,"Iquique, Chile",,,718
+"M 6.8 - 77 km WNW of Indianola, California",6.7,6.88,10-03-2014 05:18,average,average,yes,nc,112,0.6568,229.0,mw,16.441,40.8287,-125.134,"Indianola, California",,,1211
+"M 6.5 - 109 km NW of Nago, Japan",6.43,6.6,02-03-2014 20:11,moderate,average,yes,us,0,1.001,17.0,mww,119.0,27.4312,127.367,"Nago, Japan",,,668
+"M 6.5 - 171 km NNE of Greenland, Barbados",6.42,6.64,18-02-2014 09:27,average,moderate,yes,us,0,1.635,30.0,mww,14.83,14.6682,-58.9272,"Greenland, Barbados",,,681
+"M 6.9 - 272 km ESE of Hotan, China",6.78,7.02,12-02-2014 09:19,light,very strong,no,us,0,7.496,18.0,mww,10.0,35.9053,82.5864,"Hotan, China",Asia,People's Republic of China,733
+"M 6.5 - 32 km E of Port-Olry, Vanuatu",6.4,6.6,07-02-2014 08:40,no intensity,average,yes,us,0,0.409,20.0,mww,122.0,-15.0691,167.372,"Port-Olry, Vanuatu",,Vanuatu,650
+M 6.5 - south of the Kermadec Islands,6.38,6.57,02-02-2014 09:26,no intensity,light,yes,us,0,3.651,22.0,mww,44.26,-32.9076,-177.881,the Kermadec Islands,,,650
+"M 6.5 - 32 km W of Sola, Vanuatu",6.37,6.6,01-01-2014 16:03,no intensity,moderate,yes,us,0,3.997,14.0,mww,187.0,-13.8633,167.249,"Sola, Vanuatu",,Vanuatu,650
+M 6.5 - Fiji region,6.41,6.63,23-11-2013 07:48,light,moderate,no,us,0,5.194,22.0,mww,371.0,-17.1171,-176.545,Fiji region,,,651
+M 7.7 - Scotia Sea,7.61,7.78,17-11-2013 09:04,extremely light,very strong,yes,us,0,8.05,23.0,mww,10.0,-60.2738,-46.4011,Scotia Sea,,United Kingdom of Great Britain and Northern Ireland (the),912
+M 6.9 - Scotia Sea,6.78,7.01,16-11-2013 03:34,no intensity,average,yes,us,0,8.284,17.0,mww,9.97,-60.2627,-47.0621,Scotia Sea,,United Kingdom of Great Britain and Northern Ireland (the),732
+"M 6.6 - 41 km SSW of Coquimbo, Chile",6.5,6.73,31-10-2013 23:03,significant,strong,yes,us,0,0.636,31.0,mww,27.0,-30.2921,-71.5215,"Coquimbo, Chile",South America,Chile,723
+"M 7.1 - off the east coast of Honshu, Japan",7.01,7.23,25-10-2013 17:10,significant,moderate,yes,us,0,3.968,10.0,mww,35.0,37.1557,144.661,"off the east coast of Honshu, Japan",,,872
+"M 6.6 - 98 km SW of Etchoropo, Mexico",6.47,6.72,19-10-2013 17:54,very strong,average,yes,us,0,1.98,44.0,mww,9.45,26.0913,-110.321,"Etchoropo, Mexico",,,692
+"M 6.8 - 62 km WSW of Panguna, Papua New Guinea",6.71,6.89,16-10-2013 10:30,no intensity,significant,yes,us,0,5.79,9.0,mww,35.0,-6.4456,154.931,"Panguna, Papua New Guinea",,Papua New Guinea,711
+"M 7.1 - 4 km SE of Sagbayan, Philippines",7.02,7.2,15-10-2013 00:12,extremely strong,very strong,yes,us,0,3.144,12.0,mww,19.04,9.8796,124.117,"Sagbayan, Philippines",,Philippines,1092
+"M 6.6 - 36 km W of Kíssamos, Greece",6.49,6.71,12-10-2013 13:11,average,significant,no,us,0,1.984,40.0,mww,40.0,35.5142,23.2523,"Kíssamos, Greece",Europe,,691
+M 6.7 - Sea of Okhotsk,6.58,6.83,01-10-2013 03:38,no intensity,light,no,us,0,2.958,11.0,mww,573.0,53.1995,152.786,Okhotsk,,,691
+"M 6.5 - Kermadec Islands, New Zealand",6.39,6.6,30-09-2013 05:55,no intensity,moderate,yes,us,0,1.709,21.0,mww,41.54,-30.9255,-178.323,"Kermadec Islands, New Zealand",,,650
+"M 6.8 - 129 km WSW of Khuzdar, Pakistan",6.69,6.92,28-09-2013 07:34,strong,strong,no,us,0,7.359,17.0,mww,12.0,27.1825,65.5052,"Khuzdar, Pakistan",Asia,Pakistan,1005
+"M 7.1 - 16 km WSW of Atiquipa, Peru",6.97,7.23,25-09-2013 16:42,very strong,strong,yes,us,0,4.446,17.0,mww,40.0,-15.8385,-74.5112,"Atiquipa, Peru",,Peru,843
+"M 7.7 - 113 km NW of Bela, Pakistan",7.61,7.83,24-09-2013 11:29,average,very strong,no,us,0,7.241,17.0,mww,15.0,26.951,65.5009,"Bela, Pakistan",Asia,Pakistan,2015
+"M 6.5 - 81 km SSW of Atka, Alaska",6.37,6.62,04-09-2013 02:32,no intensity,significant,yes,us,0,0.735,24.0,mww,20.0,51.5573,-174.767,"Atka, Alaska",,,650
+"M 6.5 - Izu Islands, Japan region",6.37,6.61,04-09-2013 00:18,average,light,no,us,0,3.276,26.0,mww,402.0,29.9377,138.833,"Izu Islands, Japan region",,,739
+"M 6.5 - 180 km NE of Lospalos, Timor Leste",6.37,6.63,01-09-2013 11:52,moderate,average,no,us,0,3.097,11.0,mww,112.0,-7.44,128.221,"Lospalos, Timor Leste",,Indonesia,668
+"M 7.0 - 101 km SW of Atka, Alaska",6.87,7.09,30-08-2013 16:25,average,significant,no,us,0,0.624,53.0,mww,29.0,51.537,-175.23,"Atka, Alaska",,,758
+"M 6.5 - 29 km SE of Blenheim, New Zealand",6.43,6.58,16-08-2013 02:31,extremely strong,strong,yes,us,0,0.0,0.0,mww,8.2,-41.734,174.152,"Blenheim, New Zealand",,New Zealand,690
+"M 6.7 - 101 km WSW of Bahía Solano, Colombia",6.61,6.8,13-08-2013 15:43,moderate,average,yes,us,0,3.741,22.0,mww,12.0,5.7732,-78.1999,"Bahía Solano, Colombia",,,715
+"M 6.5 - 38 km ESE of Blenheim, New Zealand",6.39,6.6,21-07-2013 05:09,significant,strong,yes,us,229,0.0,20.0,mww,17.0,-41.704,174.337,"Blenheim, New Zealand",,New Zealand,693
+M 7.3 - South Sandwich Islands region,7.19,7.43,15-07-2013 14:03,no intensity,significant,yes,us,398,0.0,43.0,mww,11.0,-60.857,-25.07,South Sandwich Islands region,,United Kingdom of Great Britain and Northern Ireland (the),820
+"M 6.6 - 26 km NE of Kandrian, Papua New Guinea",6.51,6.7,07-07-2013 20:30,moderate,significant,no,us,139,0.0,14.0,mww,56.0,-6.029,149.706,"Kandrian, Papua New Guinea",,Papua New Guinea,674
+"M 7.3 - 190 km ENE of Kokopo, Papua New Guinea",7.22,7.4,07-07-2013 18:35,no intensity,moderate,yes,us,117,0.0,24.0,mww,385.5,-3.917,153.927,"Kokopo, Papua New Guinea",,Papua New Guinea,820
+M 6.6 - northern Mid-Atlantic Ridge,6.5,6.72,24-06-2013 22:04,no intensity,strong,yes,us,111,0.0,16.0,mww,10.0,10.701,-42.594,northern Mid-Atlantic Ridge,,,670
+"M 6.5 - 44 km W of Masachapa, Nicaragua",6.38,6.64,15-06-2013 17:34,average,significant,yes,us,698,0.0,27.0,mww,30.0,11.763,-86.926,"Masachapa, Nicaragua",,,679
+"M 6.7 - south of Java, Indonesia",6.62,6.79,13-06-2013 16:47,average,moderate,no,us,515,0.0,24.0,mww,9.0,-10.004,107.236,"Java, Indonesia",,,710
+M 6.7 - Sea of Okhotsk,6.58,6.79,24-05-2013 14:56,no intensity,light,yes,us,217,0.0,25.2,mwb,624.0,52.235,151.444,Okhotsk,,,691
+M 8.3 - Sea of Okhotsk,8.19,8.38,24-05-2013 05:44,average,average,yes,us,385,0.0,10.0,mww,598.1,54.892,153.221,Okhotsk,,,1115
+"M 7.4 - 292 km SW of Vaini, Tonga",7.32,7.48,23-05-2013 17:19,no intensity,significant,yes,us,626,0.0,16.0,mww,173.7,-23.009,-177.232,"Vaini, Tonga",,,842
+"M 6.8 - Pagan region, Northern Mariana Islands",6.72,6.88,14-05-2013 00:32,no intensity,light,no,us,131,0.0,18.0,mww,602.2,18.728,145.288,"Pagan region, Northern Mariana Islands",,,711
+"M 6.5 - 33 km N of Rabaul, Papua New Guinea",6.38,6.6,23-04-2013 23:14,no intensity,significant,yes,us,264,0.0,16.6,mww,10.0,-3.898,152.127,"Rabaul, Papua New Guinea",,Papua New Guinea,650
+"M 6.6 - 56 km WSW of Linqiong, China",6.51,6.69,20-04-2013 00:02,very strong,very strong,no,us,548,0.0,12.6,mww,14.0,30.308,102.888,"Linqiong, China",Asia,People's Republic of China,2083
+"M 7.2 - 252 km ENE of Kuril’sk, Russia",7.11,7.32,19-04-2013 03:05,average,strong,yes,us,770,0.0,10.1,mww,110.0,46.221,150.788,"Kuril’sk, Russia",Asia,Russia,804
+"M 6.6 - 23 km ESE of Aitape, Papua New Guinea",6.5,6.67,16-04-2013 22:55,strong,strong,yes,us,445,0.0,11.0,mww,13.0,-3.214,142.542,"Aitape, Papua New Guinea",,Papua New Guinea,672
+"M 7.7 - 79 km ESE of Kh?sh, Iran",7.61,7.8,16-04-2013 10:44,very strong,very strong,no,us,506,0.0,26.6,mww,80.0,28.033,61.996,"Kh?sh, Iran",Asia,Iran,1421
+"M 6.6 - 98 km W of Panguna, Papua New Guinea",6.52,6.7,14-04-2013 01:32,no intensity,average,yes,us,491,0.0,11.5,mww,31.0,-6.475,154.607,"Panguna, Papua New Guinea",,,670
+"M 7.0 - 260 km WSW of Abepura, Indonesia",6.89,7.08,06-04-2013 04:42,light,strong,yes,us,640,0.0,11.4,mww,66.0,-3.517,138.476,"Abepura, Indonesia",,Indonesia,755
+"M 6.5 - 36 km E of Finschhafen, Papua New Guinea",6.38,6.58,10-03-2013 22:51,no intensity,significant,yes,us,317,0.0,14.2,mww,28.0,-6.598,148.174,"Finschhafen, Papua New Guinea",,Papua New Guinea,650
+"M 6.5 - 87 km SE of Ozernovskiy, Russia",6.39,6.58,01-03-2013 13:20,light,significant,no,us,480,0.0,20.7,mww,29.0,50.958,157.408,"Ozernovskiy, Russia",Asia,,651
+"M 6.9 - 81 km SE of Ozernovskiy, Russia",6.81,6.99,28-02-2013 14:05,average,significant,yes,us,531,0.0,20.7,mww,41.0,50.954,157.283,"Ozernovskiy, Russia",Asia,,736
+"M 6.6 - 183 km SW of Belaya Gora, Russia",6.49,6.72,14-02-2013 13:13,no intensity,strong,yes,us,697,0.0,15.3,mww,11.0,67.631,142.508,"Belaya Gora, Russia",Asia,Russia,670
+"M 6.6 - 30 km SSW of Lata, Solomon Islands",6.51,6.7,09-02-2013 21:02,no intensity,significant,yes,us,421,0.0,16.6,mww,18.0,-10.994,165.741,"Lata, Solomon Islands",,Solomon Islands,670
+"M 6.9 - 2 km NNE of Yacuanquer, Colombia",6.81,7.03,09-02-2013 14:16,average,average,yes,us,562,0.0,23.7,mww,145.0,1.135,-77.393,"Yacuanquer, Colombia",South America,Colombia,904
+"M 7.1 - 32 km SE of Lata, Solomon Islands",7.01,7.22,08-02-2013 15:26,extremely strong,significant,yes,us,334,0.0,16.5,mww,21.0,-10.928,166.018,"Lata, Solomon Islands",,Solomon Islands,780
+"M 6.8 - 22 km ESE of Lata, Solomon Islands",6.71,6.88,08-02-2013 11:12,no intensity,strong,yes,us,400,0.0,17.5,mww,12.0,-10.838,165.969,"Lata, Solomon Islands",,Solomon Islands,711
+"M 6.7 - 33 km SSW of Lata, Solomon Islands",6.63,6.82,07-02-2013 18:59,no intensity,significant,yes,us,387,0.0,26.5,mww,11.0,-10.997,165.655,"Lata, Solomon Islands",,Solomon Islands,691
+"M 7.0 - 33 km NW of Lata, Solomon Islands",6.91,7.07,06-02-2013 01:54,no intensity,significant,no,us,445,0.0,17.5,mww,8.8,-10.499,165.588,"Lata, Solomon Islands",,Solomon Islands,754
+"M 7.1 - 112 km WSW of Lata, Solomon Islands",6.98,7.2,06-02-2013 01:23,no intensity,average,no,us,550,0.0,18.4,mww,10.0,-11.183,164.882,"Lata, Solomon Islands",,,776
+"M 8.0 - 75 km W of Lata, Solomon Islands",7.92,8.07,06-02-2013 01:12,very strong,strong,yes,us,460,0.0,20.9,mww,24.0,-10.799,165.114,"Lata, Solomon Islands",,,993
+"M 6.9 - 18 km SSW of Obihiro, Japan",6.8,7.04,02-02-2013 14:17,significant,strong,no,us,686,0.0,28.0,mww,107.0,42.77,143.092,"Obihiro, Japan",Asia,Japan,814
+"M 6.8 - 54 km N of Vallenar, Chile",6.73,6.88,30-01-2013 20:15,significant,strong,no,us,596,0.0,19.3,mww,45.0,-28.094,-70.653,"Vallenar, Chile",South America,Chile,771
+"M 7.5 - 110 km SW of Edna Bay, Alaska",7.41,7.59,05-01-2013 08:58,significant,significant,no,ak,0,0.0,0.0,mw,8.7,55.228,-134.859,"Edna Bay, Alaska",,,1425
+"M 6.7 - 59 km SSW of Sola, Vanuatu",6.61,6.8,21-12-2012 22:28,no intensity,moderate,no,us,521,0.0,13.7,mww,200.7,-14.344,167.286,"Sola, Vanuatu",,Vanuatu,691
+M 7.1 - Banda Sea,6.99,7.18,10-12-2012 16:53,average,average,no,us,517,0.0,8.7,mww,155.0,-6.533,129.825,Banda Sea,,Indonesia,843
+"M 7.3 - 234 km SE of ?funato, Japan",7.18,7.41,07-12-2012 08:18,significant,average,no,us,918,0.0,14.8,mww,31.0,37.89,143.949,"?funato, Japan",,,1014
+"M 6.5 - 32 km SW of Champerico, Guatemala",6.37,6.6,11-11-2012 22:14,moderate,average,no,us,598,0.0,57.3,mww,20.0,14.129,-92.164,"Champerico, Guatemala",,,708
+"M 6.8 - 51 km NNE of Shwebo, Myanmar",6.66,6.9,11-11-2012 01:12,strong,significant,no,us,391,0.0,13.7,mww,13.7,23.005,95.885,"Shwebo, Myanmar",Asia,Myanmar,795
+"M 7.4 - 33 km S of Champerico, Guatemala",7.3,7.48,07-11-2012 16:35,very strong,strong,no,us,751,0.0,25.5,mww,24.0,13.988,-91.895,"Champerico, Guatemala",,,1455
+"M 7.8 - 206 km SW of Prince Rupert, Canada",7.72,7.88,28-10-2012 03:04,very strong,strong,no,us,807,0.0,42.7,mww,14.0,52.788,-132.101,"Prince Rupert, Canada",North America,Canada,1726
+M 6.5 - Costa Rica,6.4,6.61,24-10-2012 00:45,significant,significant,no,us,691,0.0,34.4,mww,17.0,10.086,-85.298,Costa Rica,,Costa Rica,745
+"M 6.6 - 163 km ENE of Tual, Indonesia",6.52,6.7,12-10-2012 00:31,light,average,no,us,291,0.0,17.7,mww,13.0,-4.892,134.03,"Tual, Indonesia",,Indonesia,675
+"M 7.3 - 11 km WNW of San Agustín, Colombia",7.21,7.4,30-09-2012 16:31,strong,significant,no,us,934,0.0,15.5,mww,170.0,1.929,-76.362,"San Agustín, Colombia",South America,Colombia,1221
+"M 7.6 - 11 km ENE of Hojancha, Costa Rica",7.5,7.71,05-09-2012 14:42,very strong,strong,no,us,703,0.0,34.3,mww,35.0,10.085,-85.315,"Hojancha, Costa Rica",,Costa Rica,1555
+"M 7.6 - 89 km E of Sulangan, Philippines",7.51,7.72,31-08-2012 12:47,very strong,average,no,us,682,0.0,10.2,mww,28.0,10.811,126.638,"Sulangan, Philippines",,,1115
+"M 7.3 - 126 km S of Puerto El Triunfo, El Salvador",7.17,7.41,27-08-2012 04:37,average,average,no,us,417,0.0,37.0,mww,28.0,12.139,-88.59,"Puerto El Triunfo, El Salvador",,,994
+"M 6.6 - 140 km WNW of Tobelo, Indonesia",6.49,6.73,26-08-2012 15:05,moderate,average,no,us,497,0.0,14.6,mww,91.1,2.19,126.837,"Tobelo, Indonesia",,Indonesia,678
+"M 7.7 - 156 km ENE of Poronaysk, Russia",7.63,7.77,14-08-2012 02:59,strong,moderate,no,us,862,0.0,13.8,mww,583.2,49.8,145.064,"Poronaysk, Russia",,,941
+"M 6.5 - 105 km ESE of Kokopo, Papua New Guinea",6.42,6.59,28-07-2012 20:03,average,significant,no,us,576,0.0,11.7,mww,41.0,-4.651,153.173,"Kokopo, Papua New Guinea",,Papua New Guinea,653
+"M 6.6 - 76 km W of Neiafu, Tonga",6.51,6.73,28-04-2012 10:08,moderate,average,no,us,529,0.0,15.7,mww,134.7,-18.685,-174.705,"Neiafu, Tonga",,Tonga,675
+"M 6.7 - 86 km SSE of Manokwari, Indonesia",6.62,6.81,21-04-2012 01:16,no intensity,strong,no,us,370,0.0,15.4,mww,16.0,-1.617,134.276,"Manokwari, Indonesia",,Indonesia,691
+"M 6.8 - 140 km N of Lae, Papua New Guinea",6.72,6.92,17-04-2012 07:13,significant,average,no,us,597,0.0,12.6,mww,198.0,-5.462,147.117,"Lae, Papua New Guinea",,Papua New Guinea,732
+"M 6.7 - 22 km NW of Hacienda La Calera, Chile",6.58,6.8,17-04-2012 03:50,no intensity,strong,no,us,518,0.0,26.9,mww,29.0,-32.625,-71.365,"Hacienda La Calera, Chile",South America,Chile,691
+"M 7.0 - 69 km ENE of San Luis, Mexico",6.9,7.1,12-04-2012 07:15,strong,strong,no,us,474,0.0,95.9,mww,13.0,28.696,-113.104,"San Luis, Mexico",North America,Mexico,1000
+"M 6.5 - 41 km NW of El Habillal, Mexico",6.38,6.62,11-04-2012 22:55,strong,significant,no,us,599,0.0,54.1,mwb,20.0,18.229,-102.689,"El Habillal, Mexico",North America,Mexico,1171
+M 8.2 - off the west coast of northern Sumatra,8.09,8.33,11-04-2012 10:43,extremely strong,significant,no,us,341,0.0,14.9,mwc,25.1,0.802,92.463,off the west coast of northern Sumatra,,,1213
+M 8.6 - off the west coast of northern Sumatra,8.46,8.7,11-04-2012 08:38,extremely strong,strong,no,official,499,0.0,16.6,mw,20.0,2.327,93.063,off the west coast of northern Sumatra,,,2048
+"M 7.1 - 23 km NE of Constitución, Chile",6.99,7.21,25-03-2012 22:37,strong,strong,no,us,553,0.0,15.2,mww,40.7,-35.2,-72.217,"Constitución, Chile",South America,Chile,1496
+"M 6.6 - 11 km ENE of Kainantu, Papua New Guinea",6.53,6.67,21-03-2012 22:15,significant,significant,no,us,640,0.0,10.1,mww,118.0,-6.242,145.955,"Kainantu, Papua New Guinea",,Papua New Guinea,709
+"M 7.4 - 6 km E of Santiago Llano Grande, Mexico",7.31,7.47,20-03-2012 18:02,extremely strong,very strong,no,us,672,0.0,37.9,mww,20.0,16.493,-98.231,"Santiago Llano Grande, Mexico",North America,Mexico,1752
+"M 6.7 - 38 km NE of Saryg-Sep, Russia",6.57,6.83,26-02-2012 06:17,strong,strong,no,us,596,0.0,13.4,mww,12.0,51.708,95.991,"Saryg-Sep, Russia",Asia,Russia,833
+"M 6.7 - 2 km NNE of Jimalalud, Philippines",6.59,6.8,06-02-2012 03:49,extremely strong,strong,no,us,572,0.0,11.1,mww,11.0,9.999,123.206,"Jimalalud, Philippines",,Philippines,1551
+"M 7.1 - 125 km W of Port-Vila, Vanuatu",6.98,7.23,02-02-2012 13:34,average,average,no,us,573,0.0,12.0,mww,23.0,-17.827,167.133,"Port-Vila, Vanuatu",,,793
+M 7.2 - off the west coast of northern Sumatra,7.08,7.28,10-01-2012 18:36,moderate,moderate,no,us,443,0.0,17.0,mww,19.0,2.433,93.21,off the west coast of northern Sumatra,,,838
+"M 6.6 - 45 km NNE of Saryg-Sep, Russia",6.47,6.67,27-12-2011 15:21,no intensity,strong,no,us,545,0.0,17.6,mww,15.0,51.842,95.911,"Saryg-Sep, Russia",Asia,Russia,670
+"M 7.1 - 25 km SSE of Wau, Papua New Guinea",7.01,7.24,14-12-2011 05:04,significant,significant,no,us,485,0.0,10.6,mww,135.0,-7.551,146.809,"Wau, Papua New Guinea",,Papua New Guinea,834
+"M 6.5 - 6 km SSW of Nuevo Balsas, Mexico",6.41,6.6,11-12-2011 01:47,very strong,strong,no,us,578,0.0,38.6,mww,59.0,17.986,-99.789,"Nuevo Balsas, Mexico",North America,Mexico,1400
+"M 6.9 - 39 km SW of Santiago, Peru",6.82,6.98,28-10-2011 18:54,significant,strong,no,us,474,0.0,46.5,mww,24.0,-14.438,-75.966,"Santiago, Peru",South America,Peru,847
+"M 7.1 - 27 km NNE of Van, Turkey",6.97,7.18,23-10-2011 10:41,extremely strong,extremely strong,no,us,693,0.0,19.7,mww,18.0,38.721,43.508,"Van, Turkey",Asia,Turkey,1096
+"M 6.5 - 4 km ESE of Finschhafen, Papua New Guinea",6.41,6.64,14-10-2011 03:35,light,significant,no,us,423,0.0,12.6,mww,37.0,-6.57,147.881,"Finschhafen, Papua New Guinea",,Papua New Guinea,655
+"M 6.9 - 43 km NW of Mangan, India",6.78,7.0,18-09-2011 12:40,very strong,very strong,no,us,383,0.0,13.0,mww,50.0,27.73,88.155,"Mangan, India",Asia,India,1562
+"M 6.7 - 99 km NE of Miyako, Japan",6.57,6.83,16-09-2011 19:26,average,average,no,us,667,0.0,10.9,mwc,30.0,40.273,142.779,"Miyako, Japan",,,712
+"M 6.7 - 68 km WSW of Kabanjahe, Indonesia",6.59,6.79,05-09-2011 17:55,average,significant,no,us,447,0.0,15.3,mww,91.0,2.965,97.893,"Kabanjahe, Indonesia",,Indonesia,915
+"M 7.0 - 133 km SSE of Isangel, Vanuatu",6.88,7.08,03-09-2011 22:55,strong,average,no,us,406,0.0,15.3,mww,185.1,-20.671,169.716,"Isangel, Vanuatu",,,761
+"M 7.0 - 64 km ESE of Contamana, Peru",6.89,7.13,24-08-2011 17:46,significant,significant,no,us,471,0.0,26.9,mww,147.0,-7.641,-74.525,"Contamana, Peru",South America,Peru,913
+"M 7.1 - 64 km S of Port-Vila, Vanuatu",6.98,7.23,20-08-2011 18:19,average,significant,no,us,564,0.0,12.3,mww,28.0,-18.311,168.218,"Port-Vila, Vanuatu",,,787
+"M 6.5 - 65 km SSW of Port-Vila, Vanuatu",6.37,6.63,20-08-2011 17:13,no intensity,average,no,us,322,0.0,15.0,mwc,35.0,-18.308,168.156,"Port-Vila, Vanuatu",,,650
+"M 7.2 - 71 km SSW of Port-Vila, Vanuatu",7.11,7.33,20-08-2011 16:55,very strong,significant,no,us,280,0.0,18.4,mww,32.0,-18.365,168.143,"Port-Vila, Vanuatu",,,813
+"M 6.6 - 103 km NE of Angoram, Papua New Guinea",6.5,6.69,31-07-2011 23:38,light,significant,no,us,229,0.0,16.6,mww,10.0,-3.518,144.828,"Angoram, Papua New Guinea",,Papua New Guinea,674
+M 7.6 - Kermadec Islands region,7.51,7.73,06-07-2011 19:03,light,strong,no,us,567,0.0,33.5,mww,17.0,-29.539,-176.34,Kermadec Islands region,,,893
+"M 6.7 - 41 km NNE of Miyako, Japan",6.63,6.78,22-06-2011 21:50,significant,significant,no,us,592,0.0,24.9,mww,33.0,39.955,142.205,"Miyako, Japan",Asia,Japan,749
+"M 6.8 - 124 km NE of Wé, New Caledonia",6.72,6.9,10-05-2011 08:55,moderate,average,no,us,519,0.0,12.5,mww,11.0,-20.244,168.226,"Wé, New Caledonia",,,734
+"M 6.8 - 79 km W of Kirakira, Solomon Islands",6.67,6.9,23-04-2011 04:16,average,significant,no,us,445,0.0,13.0,mww,79.0,-10.375,161.2,"Kirakira, Solomon Islands",,Solomon Islands,719
+"M 6.6 - 17 km SSW of Ishikawa, Japan",6.48,6.68,11-04-2011 08:16,strong,strong,no,us,586,0.0,10.1,mww,11.0,37.001,140.401,"Ishikawa, Japan",Asia,Japan,822
+"M 7.1 - 29 km ESE of Ishinomaki, Japan",6.99,7.21,07-04-2011 14:32,very strong,very strong,no,us,446,0.0,17.7,mww,42.0,38.276,141.588,"Ishinomaki, Japan",Asia,Japan,1114
+"M 6.6 - 7 km SW of Helio García Alfaro, Mexico",6.47,6.68,07-04-2011 13:11,strong,significant,no,us,518,0.0,37.2,mww,166.2,17.208,-94.338,"Helio García Alfaro, Mexico",,Mexico,897
+"M 6.9 - 27 km NNW of Tachilek, Myanmar",6.81,7.04,24-03-2011 13:55,strong,extremely strong,no,us,335,0.0,18.2,mww,8.0,20.687,99.822,"Tachilek, Myanmar",Asia,Myanmar,1154
+"M 6.6 - 50 km ESE of ?tsuchi, Japan",6.47,6.69,11-03-2011 11:36,significant,average,no,us,668,0.0,9.5,ms,25.7,39.241,142.463,"?tsuchi, Japan",,,673
+"M 6.5 - 81 km NE of Hasaki, Japan",6.43,6.63,11-03-2011 08:19,no intensity,moderate,no,us,369,0.0,18.7,mb,6.8,36.166,141.562,"Hasaki, Japan",,,650
+"M 7.7 - 272 km ESE of Kamaishi, Japan",7.62,7.84,11-03-2011 06:25,strong,moderate,no,us,507,0.0,10.8,mwc,18.6,38.058,144.59,"Kamaishi, Japan",,,931
+"M 7.9 - 47 km E of ?arai, Japan",7.83,8.0,11-03-2011 06:15,very strong,strong,no,us,163,0.0,48.4,mwc,42.6,36.281,141.111,"?arai, Japan",,,1140
+"M 9.1 - 2011 Great Tohoku Earthquake, Japan",8.97,9.2,11-03-2011 05:46,extremely strong,very strong,no,official,541,0.0,9.5,mww,29.0,38.297,142.373,"2011 Great Tohoku Earthquake, Japan",,,2184
+"M 7.3 - 120 km SE of ?funato, Japan",7.21,7.43,09-03-2011 02:45,average,average,no,us,550,0.0,17.4,mww,32.0,38.435,142.842,"?funato, Japan",,,972
+"M 6.7 - 38 km W of Constitución, Chile",6.61,6.83,14-02-2011 03:40,average,significant,no,us,358,0.0,33.9,mww,21.0,-35.38,-72.834,"Constitución, Chile",,,731
+"M 6.9 - 21 km N of Tomé, Chile",6.8,7.02,11-02-2011 20:05,strong,strong,no,us,382,0.0,34.7,mww,26.0,-36.422,-72.96,"Tomé, Chile",South America,Chile,988
+"M 7.2 - 46 km WSW of Dalbandin, Pakistan",7.13,7.3,18-01-2011 20:23,strong,strong,no,us,372,0.0,25.3,mww,68.0,28.777,63.951,"Dalbandin, Pakistan",Asia,Pakistan,1449
+"M 7.0 - 118 km NNE of Tadine, New Caledonia",6.88,7.1,13-01-2011 16:16,very light,average,no,us,578,0.0,13.3,mww,9.0,-20.628,168.471,"Tadine, New Caledonia",,,755
+"M 7.2 - 42 km NNW of Carahue, Chile",7.1,7.32,02-01-2011 20:20,very strong,strong,no,us,397,0.0,30.1,mww,24.0,-38.355,-73.326,"Carahue, Chile",South America,Chile,1054
+"M 7.3 - 141 km W of Isangel, Vanuatu",7.17,7.38,25-12-2010 13:16,no intensity,average,no,us,409,0.0,12.0,mwc,16.0,-19.702,167.947,"Isangel, Vanuatu",,,820
+"M 6.7 - 111 km SE of Bam, Iran",6.59,6.79,20-12-2010 18:41,light,strong,no,us,279,0.0,24.3,mwc,12.0,28.412,59.18,"Bam, Iran",Asia,Iran,708
+"M 6.6 - 52 km ENE of Kandrian, Papua New Guinea",6.46,6.71,02-12-2010 03:12,no intensity,significant,no,us,306,0.0,18.5,mwb,33.0,-6.001,149.977,"Kandrian, Papua New Guinea",,Papua New Guinea,670
+"M 7.8 - 215 km SW of Sungai Penuh, Indonesia",7.71,7.9,25-10-2010 14:42,moderate,strong,no,us,379,0.0,23.0,mwc,20.1,-3.487,100.082,"Sungai Penuh, Indonesia",,,946
+"M 6.7 - 97 km SSW of El Huitusi, Mexico",6.61,6.79,21-10-2010 17:53,average,average,no,us,352,0.0,50.3,mwc,13.0,24.696,-109.156,"El Huitusi, Mexico",,,776
+"M 7.0 - Near the south coast of Papua, Indonesia",6.88,7.12,29-09-2010 17:11,very strong,average,no,us,271,0.0,15.1,mwc,26.0,-4.963,133.76,"Papua, Indonesia",,Indonesia,772
+"M 7.0 - 19 km NE of Methven, New Zealand",6.92,7.12,03-09-2010 16:35,very strong,very strong,no,us,365,0.0,15.8,mwc,12.0,-43.522,171.83,"Methven, New Zealand",,New Zealand,1245
+M 7.1 - Ecuador,6.97,7.21,12-08-2010 11:54,significant,average,no,us,672,0.0,12.4,mwc,206.7,-1.266,-77.306,Ecuador,South America,Ecuador,945
+"M 7.3 - 33 km NW of Port-Vila, Vanuatu",7.22,7.42,10-08-2010 05:23,strong,strong,no,us,405,0.0,20.2,mwc,25.0,-17.541,168.069,"Port-Vila, Vanuatu",,Vanuatu,850
+"M 7.0 - 72 km ESE of Kimbe, Papua New Guinea",6.9,7.07,04-08-2010 22:01,moderate,significant,no,us,396,0.0,12.7,mww,44.0,-5.746,150.765,"Kimbe, Papua New Guinea",,Papua New Guinea,757
+"M 6.5 - 118 km ESE of Madang, Papua New Guinea",6.36,6.61,04-08-2010 07:15,average,moderate,no,us,403,0.0,11.1,mwc,220.0,-5.486,146.822,"Madang, Papua New Guinea",,Papua New Guinea,659
+"M 7.6 - 61 km W of Bantogon, Philippines",7.51,7.72,23-07-2010 22:51,average,light,no,us,340,0.0,15.1,mwc,578.0,6.497,123.48,"Bantogon, Philippines",,Philippines,902
+"M 7.3 - New Britain region, Papua New Guinea",7.22,7.39,18-07-2010 13:34,very strong,strong,no,us,397,0.0,18.2,mwc,35.0,-5.931,150.59,"New Britain region, Papua New Guinea",,Papua New Guinea,831
+"M 6.9 - 56 km SE of Kimbe, Papua New Guinea",6.77,6.97,18-07-2010 13:04,moderate,strong,no,us,456,0.0,15.7,mwc,28.0,-5.966,150.428,"Kimbe, Papua New Guinea",,Papua New Guinea,737
+"M 6.6 - 30 km SSE of Cañete, Chile",6.52,6.68,14-07-2010 08:32,significant,strong,no,us,295,0.0,52.8,mwc,22.0,-38.067,-73.31,"Cañete, Chile",South America,Chile,753
+"M 6.7 - 55 km WSW of Kirakira, Solomon Islands",6.58,6.84,26-06-2010 05:30,average,significant,no,us,392,0.0,18.7,mwc,35.0,-10.627,161.447,"Kirakira, Solomon Islands",,Solomon Islands,696
+"M 6.6 - 135 km SSE of Biak, Indonesia",6.48,6.73,16-06-2010 03:58,no intensity,strong,no,us,309,0.0,25.0,mwc,10.5,-2.329,136.484,"Biak, Indonesia",,Indonesia,670
+"M 7.0 - 121 km SSE of Biak, Indonesia",6.92,7.09,16-06-2010 03:16,light,strong,no,us,307,0.0,18.1,mwc,18.0,-2.174,136.543,"Biak, Indonesia",,Indonesia,755
+"M 7.5 - Nicobar Islands, India region",7.38,7.62,12-06-2010 19:26,significant,average,no,us,514,0.0,18.6,mwc,35.0,7.881,91.936,"Nicobar Islands, India region",,,1144
+"M 7.2 - 100 km WNW of Sola, Vanuatu",7.09,7.29,27-05-2010 17:14,average,significant,no,us,327,0.0,11.7,mwc,31.0,-13.698,166.643,"Sola, Vanuatu",,Vanuatu,804
+"M 7.2 - 45 km SSW of Meulaboh, Indonesia",7.1,7.28,09-05-2010 05:59,average,significant,no,us,611,0.0,20.6,mwc,38.0,3.748,96.018,"Meulaboh, Indonesia",,Indonesia,918
+"M 6.9 - 233 km NNW of Qamdo, China",6.78,7.04,13-04-2010 23:49,significant,extremely strong,no,us,410,0.0,14.9,mwc,17.0,33.165,96.548,"Qamdo, China",Asia,People's Republic of China,773
+"M 6.9 - 99 km WSW of Kirakira, Solomon Islands",6.77,7.04,11-04-2010 09:40,moderate,average,no,us,399,0.0,12.1,mwc,21.0,-10.878,161.116,"Kirakira, Solomon Islands",,,740
+"M 7.8 - 75 km E of Sinabang, Indonesia",7.67,7.93,06-04-2010 22:15,no intensity,strong,no,us,352,0.0,19.2,mwc,31.0,2.383,97.048,"Sinabang, Indonesia",,Indonesia,936
+"M 7.2 - 12km SW of Delta, B.C., MX",7.13,7.31,04-04-2010 22:40,extremely strong,extremely strong,no,ci,10,0.5137,239.0,mw,9.987,32.2862,-115.295,"Delta, B.C., MX",North America,Mexico,2910
+"M 6.6 - 217 km N of Bamboo Flat, India",6.51,6.71,30-03-2010 16:54,average,significant,no,us,413,0.0,16.7,mwc,34.0,13.667,92.831,"Bamboo Flat, India",,India,701
+"M 6.7 - 52 km NNW of Tomé, Chile",6.62,6.77,16-03-2010 02:21,average,significant,no,us,312,0.0,34.7,mwc,18.0,-36.217,-73.257,"Tomé, Chile",,,856
+"M 6.5 - 59 km ENE of Namie, Japan",6.38,6.64,14-03-2010 08:08,significant,average,no,us,491,0.0,27.0,mwc,32.0,37.745,141.59,"Namie, Japan",,,810
+"M 7.0 - 52 km NW of Santa Cruz, Chile",6.91,7.09,11-03-2010 14:55,strong,strong,no,us,403,0.0,17.1,mwc,18.0,-34.326,-71.799,"Santa Cruz, Chile",South America,Chile,874
+"M 6.9 - 61 km NW of Santa Cruz, Chile",6.78,6.98,11-03-2010 14:39,strong,strong,no,us,415,0.0,12.5,mwc,11.0,-34.29,-71.891,"Santa Cruz, Chile",South America,Chile,1280
+"M 6.8 - 141 km W of Bengkulu, Indonesia",6.69,6.92,05-03-2010 16:07,moderate,significant,no,us,401,0.0,23.2,mwc,26.0,-3.762,100.991,"Bengkulu, Indonesia",,Indonesia,717
+"M 6.6 - 23 km WNW of Talcahuano, Chile",6.5,6.7,05-03-2010 11:47,strong,strong,no,us,255,0.0,27.8,mwb,18.0,-36.665,-73.374,"Talcahuano, Chile",,Chile,736
+"M 6.5 - 48 km NW of Sola, Vanuatu",6.4,6.59,04-03-2010 14:02,no intensity,moderate,no,us,426,0.0,18.7,mwb,176.0,-13.571,167.227,"Sola, Vanuatu",,Vanuatu,650
+"M 7.4 - 124 km W of Lebu, Chile",7.27,7.5,27-02-2010 08:01,no intensity,average,no,us,409,0.0,17.6,mwc,35.0,-37.773,-75.048,"Lebu, Chile",,,842
+"M 8.8 - 36 km WNW of Quirihue, Chile",8.71,8.9,27-02-2010 06:34,very strong,very strong,no,official,454,0.0,17.8,mww,22.9,-36.122,-72.898,"Quirihue, Chile",South America,Chile,1991
+"M 7.0 - 70 km SE of Katsuren-haebaru, Japan",6.91,7.14,26-02-2010 20:31,significant,significant,no,us,487,0.0,15.7,mwc,25.0,25.93,128.425,"Katsuren-haebaru, Japan",,,1180
+"M 7.0 - 10 km SE of Léogâne, Haiti",6.88,7.09,12-01-2010 21:53,extremely strong,extremely strong,no,us,500,0.0,22.7,mwc,13.0,18.443,-72.571,"Léogâne, Haiti",,Haiti,1623
+"M 6.5 - 37 km WNW of Ferndale, California",6.42,6.62,10-01-2010 00:27,strong,strong,no,nc,51,0.3225,220.0,mw,28.737,40.652,-124.692,"Ferndale, California",North America,,1360
+"M 6.8 - 127 km SE of Gizo, Solomon Islands",6.7,6.92,05-01-2010 12:15,light,significant,no,us,338,0.0,15.0,mwc,15.4,-9.019,157.551,"Gizo, Solomon Islands",,,713
+"M 7.1 - 94 km SE of Gizo, Solomon Islands",6.97,7.2,03-01-2010 22:36,average,strong,no,us,377,0.0,15.0,mwc,10.0,-8.783,157.354,"Gizo, Solomon Islands",,Solomon Islands,780
+"M 6.6 - 98 km SE of Gizo, Solomon Islands",6.52,6.7,03-01-2010 21:48,average,strong,no,us,282,0.0,16.6,mwc,10.0,-8.726,157.487,"Gizo, Solomon Islands",,Solomon Islands,672
+"M 6.5 - 92 km N of Iquique, Chile",6.42,6.6,13-11-2009 03:05,significant,strong,no,us,390,0.0,17.7,mwc,27.0,-19.394,-70.321,"Iquique, Chile",South America,Chile,698
+"M 7.3 - 77 km ENE of Ba, Fiji",7.17,7.38,09-11-2009 10:44,no intensity,moderate,no,us,430,0.0,15.0,mwc,595.0,-17.239,178.331,"Ba, Fiji",,Fiji,820
+"M 6.6 - 29 km NNW of Bima, Indonesia",6.5,6.71,08-11-2009 19:41,strong,significant,no,us,305,0.0,20.4,mwc,18.0,-8.207,118.631,"Bima, Indonesia",,Indonesia,677
+"M 6.8 - 98 km NNE of Naze, Japan",6.71,6.9,30-10-2009 07:03,no intensity,significant,no,us,424,0.0,21.4,mwc,34.0,29.218,129.782,"Naze, Japan",,,711
+"M 6.9 - 268 km WSW of Tual, Indonesia",6.8,6.99,24-10-2009 14:40,moderate,significant,no,us,397,0.0,11.0,mwc,130.0,-6.133,130.385,"Tual, Indonesia",,Indonesia,972
+"M 6.8 - 188 km WNW of Sola, Vanuatu",6.69,6.9,08-10-2009 08:28,no intensity,average,no,us,174,0.0,30.2,mwc,35.0,-13.298,165.91,"Sola, Vanuatu",,,711
+"M 7.4 - 143 km NW of Sola, Vanuatu",7.3,7.49,07-10-2009 23:13,no intensity,strong,no,us,314,0.0,20.2,mwc,31.1,-13.093,166.497,"Sola, Vanuatu",,Vanuatu,842
+"M 7.8 - 196 km NW of Sola, Vanuatu",7.72,7.89,07-10-2009 22:18,no intensity,significant,no,us,195,0.0,20.3,mwc,35.0,-12.517,166.382,"Sola, Vanuatu",,,936
+"M 7.7 - 148 km NW of Sola, Vanuatu",7.59,7.82,07-10-2009 22:03,moderate,strong,no,us,283,0.0,23.2,mww,45.0,-13.006,166.51,"Sola, Vanuatu",,Vanuatu,916
+"M 6.6 - 49 km SSE of Sungai Penuh, Indonesia",6.52,6.74,01-10-2009 01:52,strong,strong,no,us,417,0.0,30.1,mwc,9.0,-2.482,101.524,"Sungai Penuh, Indonesia",,Indonesia,787
+"M 7.6 - 30 km WSW of Pariaman, Indonesia",7.5,7.67,30-09-2009 10:16,very strong,very strong,no,us,498,0.0,14.0,mwc,81.0,-0.72,99.867,"Pariaman, Indonesia",,Indonesia,1639
+"M 8.1 - 168 km SSW of Matavai, Samoa",7.98,8.17,29-09-2009 17:48,strong,significant,no,us,520,0.0,20.8,mwc,18.0,-15.489,-172.095,"Matavai, Samoa",,,1055
+"M 7.0 - 66 km SSW of Banjar, Indonesia",6.87,7.14,02-09-2009 07:55,strong,strong,no,us,312,0.0,16.3,mwc,46.0,-7.782,107.297,"Banjar, Indonesia",,Indonesia,1175
+"M 6.7 - 112 km WSW of Padang, Indonesia",6.59,6.77,16-08-2009 07:38,average,significant,no,us,369,0.0,14.9,mwc,20.0,-1.479,99.49,"Padang, Indonesia",,Indonesia,753
+"M 6.6 - 244 km SSE of Tateyama, Japan",6.49,6.69,12-08-2009 22:48,moderate,average,no,us,336,0.0,14.1,mwc,53.0,32.821,140.395,"Tateyama, Japan",,,703
+"M 7.5 - 266 km N of Bamboo Flat, India",7.38,7.59,10-08-2009 19:55,strong,significant,no,us,303,0.0,18.2,mwc,24.0,14.099,92.902,"Bamboo Flat, India",,,1248
+"M 7.1 - 161 km S of ?yama, Japan",7.0,7.18,09-08-2009 10:55,average,moderate,no,us,447,0.0,14.2,mwc,292.0,33.167,137.944,"?yama, Japan",,,1005
+"M 6.9 - 96 km WNW of Bahía de Kino, Mexico",6.83,7.0,03-08-2009 17:59,average,strong,no,us,243,0.0,35.0,mwc,10.0,29.039,-112.903,"Bahía de Kino, Mexico",North America,Mexico,1202
+"M 7.8 - 97 km WSW of Te Anau, New Zealand",7.66,7.92,15-07-2009 09:22,significant,very strong,no,us,434,0.0,16.8,mwc,12.0,-45.762,166.562,"Te Anau, New Zealand",,New Zealand,1165
+"M 6.7 - 190 km ESE of Kokopo, Papua New Guinea",6.57,6.79,23-06-2009 14:19,average,average,no,us,269,0.0,13.8,mwc,64.0,-5.157,153.782,"Kokopo, Papua New Guinea",,Papua New Guinea,693
+"M 7.3 - 46 km NW of Guanaja, Honduras",7.2,7.41,28-05-2009 08:24,strong,very strong,no,us,464,0.0,27.2,mwc,19.0,16.731,-86.217,"Guanaja, Honduras",,,1560
+"M 7.6 - 191 km S of ‘Ohonua, Tonga",7.48,7.73,19-03-2009 18:17,strong,average,no,us,504,0.0,14.0,mwc,31.0,-23.043,-174.66,"‘Ohonua, Tonga",,,916
+"M 7.2 - 196 km SSE of Sarangani, Philippines",7.13,7.28,11-02-2009 17:34,light,strong,no,us,432,0.0,18.6,mwc,20.0,3.886,126.387,"Sarangani, Philippines",,Indonesia,802
+"M 7.4 - 86 km WNW of Manokwari, Indonesia",7.27,7.54,03-01-2009 22:33,strong,strong,no,us,314,0.0,21.1,mwc,23.0,-0.691,133.305,"Manokwari, Indonesia",,Indonesia,846
+"M 6.6 - 50 km S of Jurm, Afghanistan",6.47,6.7,03-01-2009 20:23,average,moderate,no,us,344,0.0,22.6,mwc,204.8,36.419,70.743,"Jurm, Afghanistan",Asia,Afghanistan,765
+"M 7.7 - 140 km WNW of Manokwari, Indonesia",7.63,7.79,03-01-2009 19:43,average,strong,no,us,288,0.0,29.8,mwc,17.0,-0.414,132.885,"Manokwari, Indonesia",,Indonesia,918
+"M 7.4 - 135 km NW of Gorontalo, Indonesia",7.32,7.53,16-11-2008 17:02,extremely strong,strong,no,us,365,0.0,33.7,mww,30.0,1.271,122.091,"Gorontalo, Indonesia",,Indonesia,848
+"M 6.7 - 19 km SW of Brisas Barra de Suchiate, Mexico",6.57,6.78,16-10-2008 19:41,average,significant,no,us,481,0.0,28.6,mwc,24.0,14.423,-92.364,"Brisas Barra de Suchiate, Mexico",,Mexico,731
+"M 6.7 - 131 km SE of Nookat, Kyrgyzstan",6.58,6.79,05-10-2008 15:52,no intensity,significant,no,us,529,0.0,22.3,mwc,27.4,39.533,73.824,"Nookat, Kyrgyzstan",Asia,Kyrgyzstan,691
+"M 6.8 - 122 km SSE of Obihiro, Japan",6.71,6.9,11-09-2008 00:20,no intensity,significant,no,us,500,0.0,22.2,mwc,25.0,41.892,143.754,"Obihiro, Japan",,,711
+"M 6.6 - 73 km WNW of Tobelo, Indonesia",6.5,6.72,11-09-2008 00:00,no intensity,significant,no,us,463,0.0,14.1,mwc,96.0,1.885,127.363,"Tobelo, Indonesia",,Indonesia,670
+"M 6.9 - 75 km WNW of Sola, Vanuatu",6.77,7.02,08-09-2008 18:52,no intensity,significant,no,us,531,0.0,14.9,mwc,110.0,-13.501,166.967,"Sola, Vanuatu",,Vanuatu,732
+"M 6.7 - 221 km NE of Jumla, Nepal",6.56,6.79,25-08-2008 13:21,moderate,strong,no,us,325,0.0,28.0,mwc,12.0,30.901,83.52,"Jumla, Nepal",Asia,People's Republic of China,692
+"M 6.8 - 29 km ENE of Morioka, Japan",6.7,6.89,23-07-2008 15:26,very strong,strong,no,us,633,0.0,20.2,mwc,108.0,39.802,141.464,"Morioka, Japan",Asia,Japan,1046
+"M 7.0 - 107 km E of Namie, Japan",6.86,7.11,19-07-2008 02:39,average,average,no,us,577,0.0,18.2,mwc,22.0,37.552,142.214,"Namie, Japan",,,840
+"M 6.9 - 151 km E of Namie, Japan",6.78,7.02,19-07-2008 02:39,average,average,no,duputel,0,0.0,0.0,mww,25.5,37.55,142.714,"Namie, Japan",,,825
+"M 6.6 - 124 km SW of Bamboo Flat, India",6.51,6.68,27-06-2008 11:40,moderate,average,no,us,630,0.0,18.4,mwc,17.0,11.005,91.824,"Bamboo Flat, India",,,680
+"M 6.9 - 24 km WSW of Mizusawa, Japan",6.83,7.04,13-06-2008 23:43,strong,very strong,no,us,654,0.0,17.1,mwc,7.8,39.03,140.881,"Mizusawa, Japan",Asia,Japan,888
+"M 7.9 - 58 km W of Tianpeng, China",7.81,8.01,12-05-2008 06:28,extremely strong,extremely strong,no,us,774,0.0,11.3,mwc,19.0,31.002,103.322,"Tianpeng, China",Asia,People's Republic of China,1870
+"M 6.9 - 78 km NE of Hasaki, Japan",6.82,7.01,07-05-2008 16:45,average,average,no,us,519,0.0,21.1,mwc,27.0,36.164,141.526,"Hasaki, Japan",,,910
+"M 7.3 - 71 km SW of Isangel, Vanuatu",7.17,7.39,09-04-2008 12:46,no intensity,significant,no,us,486,0.0,13.4,mwc,33.0,-20.071,168.892,"Isangel, Vanuatu",,,820
+"M 7.2 - 226 km SE of Hotan, China",7.08,7.29,20-03-2008 22:32,no intensity,strong,no,us,532,0.0,25.9,mwc,10.0,35.49,81.467,"Hotan, China",Asia,People's Republic of China,798
+M 6.9 - Philippine Islands region,6.81,7.02,03-03-2008 14:11,moderate,average,no,us,544,0.0,25.9,mwc,24.0,13.351,125.63,Philippine Islands region,,,740
+"M 6.7 - 155 km SSW of Padang, Indonesia",6.6,6.83,25-02-2008 21:02,average,significant,no,us,543,0.0,15.1,mwc,25.0,-2.245,99.808,"Padang, Indonesia",,Indonesia,696
+"M 6.6 - 161 km SSW of Padang, Indonesia",6.5,6.68,25-02-2008 18:06,moderate,significant,no,us,421,0.0,17.7,mwc,25.0,-2.332,99.891,"Padang, Indonesia",,Indonesia,674
+"M 7.2 - 164 km WSW of Sungai Penuh, Indonesia",7.08,7.34,25-02-2008 08:36,moderate,strong,no,us,505,0.0,18.4,mwc,25.0,-2.486,99.972,"Sungai Penuh, Indonesia",,Indonesia,832
+"M 6.5 - 166 km WSW of Sungai Penuh, Indonesia",6.37,6.64,24-02-2008 14:46,moderate,significant,no,us,429,0.0,28.3,mwc,22.0,-2.405,99.931,"Sungai Penuh, Indonesia",,Indonesia,654
+"M 7.4 - 56 km NW of Sinabang, Indonesia",7.29,7.48,20-02-2008 08:08,average,strong,no,us,607,0.0,16.4,mwc,26.0,2.768,95.964,"Sinabang, Indonesia",,Indonesia,914
+"M 6.5 - 50 km S of Koróni, Greece",6.37,6.6,14-02-2008 12:08,very strong,average,no,us,650,0.0,30.7,mwc,28.0,36.345,21.863,"Koróni, Greece",Europe,,692
+"M 6.9 - 35 km S of Methóni, Greece",6.79,6.98,14-02-2008 10:09,significant,significant,no,us,645,0.0,30.6,mwc,29.0,36.501,21.67,"Methóni, Greece",Europe,,941
+"M 6.5 - 9 km SSW of General Pascual Fentes, Mexico",6.42,6.61,12-02-2008 12:50,strong,significant,no,us,521,0.0,27.6,mwc,83.0,16.357,-94.304,"General Pascual Fentes, Mexico",,Mexico,723
+"M 6.6 - 46 km SSE of Gisborne, New Zealand",6.52,6.67,20-12-2007 07:55,strong,significant,no,us,461,0.0,18.8,mwc,20.0,-39.011,178.291,"Gisborne, New Zealand",,,808
+"M 6.7 - 80 km NNE of Antofagasta, Chile",6.57,6.77,16-12-2007 08:09,average,strong,no,us,481,0.0,30.3,mwb,45.0,-22.954,-70.182,Ant,South America,Chile,704
+"M 7.4 - 18 km WNW of Basse-Pointe, Martinique",7.31,7.52,29-11-2007 19:00,strong,strong,no,us,663,0.0,13.4,mwb,156.0,14.944,-61.274,"Basse-Pointe, Martinique",,Martinique,1542
+"M 6.6 - 60 km SSE of Kirakira, Solomon Islands",6.51,6.73,27-11-2007 11:49,light,significant,no,us,280,0.0,26.9,mwc,16.0,-10.95,162.149,"Kirakira, Solomon Islands",,Solomon Islands,672
+"M 6.5 - 34 km N of Dompu, Indonesia",6.37,6.62,25-11-2007 19:53,average,strong,no,us,272,0.0,27.6,mwc,18.0,-8.224,118.467,"Dompu, Indonesia",,Indonesia,653
+"M 6.5 - 28 km NNW of Dompu, Indonesia",6.4,6.6,25-11-2007 16:02,strong,strong,no,us,353,0.0,27.5,mwc,20.0,-8.292,118.37,"Dompu, Indonesia",,Indonesia,657
+"M 6.8 - 107 km N of Lae, Papua New Guinea",6.7,6.92,22-11-2007 08:48,significant,significant,no,us,341,0.0,15.9,mwc,53.0,-5.757,147.098,"Lae, Papua New Guinea",,Papua New Guinea,722
+"M 6.8 - 30 km E of Macas, Ecuador",6.72,6.9,16-11-2007 03:13,strong,significant,no,us,649,0.0,27.0,mwc,122.9,-2.312,-77.838,"Macas, Ecuador",South America,Ecuador,790
+"M 6.8 - 82 km NNE of Antofagasta, Chile",6.73,6.93,15-11-2007 15:05,significant,strong,no,us,285,0.0,40.1,mwc,26.0,-22.925,-70.237,Ant,South America,Chile,716
+"M 7.7 - 36 km ESE of Tocopilla, Chile",7.57,7.81,14-11-2007 15:40,very strong,strong,no,us,610,0.0,22.4,mwc,40.0,-22.247,-69.89,"Tocopilla, Chile",South America,Chile,995
+"M 6.8 - 138 km W of Bengkulu, Indonesia",6.67,6.92,24-10-2007 21:02,light,average,no,us,494,0.0,23.9,mwc,21.0,-3.899,101.02,"Bengkulu, Indonesia",,Indonesia,713
+"M 6.8 - 70 km N of Te Anau, New Zealand",6.67,6.93,15-10-2007 12:29,moderate,strong,no,us,338,0.0,19.0,mwc,18.0,-44.796,167.553,"Te Anau, New Zealand",,New Zealand,744
+"M 6.8 - 154 km ESE of Kokopo, Papua New Guinea",6.72,6.88,26-09-2007 12:36,moderate,average,no,us,348,0.0,15.5,mwc,40.0,-4.99,153.5,"Kokopo, Papua New Guinea",,Papua New Guinea,713
+"M 6.7 - 118 km SSW of Padang, Indonesia",6.57,6.78,20-09-2007 08:31,light,average,no,us,503,0.0,26.9,mwc,30.0,-1.999,100.141,"Padang, Indonesia",,Indonesia,696
+"M 7.0 - 153 km SSW of Padang, Indonesia",6.89,7.1,13-09-2007 03:35,moderate,strong,no,us,537,0.0,23.1,mwc,22.0,-2.13,99.627,"Padang, Indonesia",,Indonesia,768
+"M 6.5 - Kepulauan Mentawai region, Indonesia",6.39,6.61,13-09-2007 02:30,no intensity,average,no,us,409,0.0,26.2,mwc,28.9,-1.689,99.668,"Kepulauan Mentawai region, Indonesia",,Indonesia,650
+"M 7.9 - 87 km SW of Sungai Penuh, Indonesia",7.79,8.04,12-09-2007 23:49,very strong,strong,no,us,446,0.0,29.1,mwc,35.0,-2.625,100.841,"Sungai Penuh, Indonesia",,Indonesia,1133
+"M 7.8 - 148 km WSW of Sungai Penuh, Indonesia",7.68,7.89,12-09-2007 23:49,strong,very strong,no,duputel,0,0.0,0.0,mww,40.5,-2.52,100.139,"Sungai Penuh, Indonesia",Asia,Indonesia,1152
+"M 8.4 - 122 km SW of Bengkulu, Indonesia",8.3,8.53,12-09-2007 11:10,no intensity,significant,no,official,411,0.0,32.3,mww,34.0,-4.438,101.367,"Bengkulu, Indonesia",,Indonesia,1086
+"M 6.8 - 39 km WNW of Timbiquí, Colombia",6.69,6.91,10-09-2007 01:49,average,significant,no,us,653,0.0,17.6,mwc,15.0,2.966,-77.963,"Timbiquí, Colombia",,Colombia,747
+"M 7.2 - 97 km S of Lata, Solomon Islands",7.07,7.27,02-09-2007 01:05,no intensity,average,no,us,312,0.0,21.3,mwc,35.0,-11.61,165.762,"Lata, Solomon Islands",,,798
+"M 6.5 - 31 km WSW of Malango, Solomon Islands",6.39,6.59,16-08-2007 08:39,average,significant,no,us,382,0.0,12.8,mwc,15.0,-9.834,159.465,"Malango, Solomon Islands",,,675
+"M 8.0 - 41 km SW of San Vicente de Cañete, Peru",7.92,8.11,15-08-2007 23:40,extremely strong,very strong,no,us,625,0.0,25.7,mwc,39.0,-13.386,-76.603,"San Vicente de Cañete, Peru",,Peru,1385
+"M 7.5 - 35 km NNE of Rengasdengklok, Indonesia",7.37,7.6,08-08-2007 17:05,no intensity,average,no,us,228,0.0,30.7,mwc,280.0,-5.859,107.419,"Rengasdengklok, Indonesia",,Indonesia,865
+"M 7.2 - 56 km E of Luganville, Vanuatu",7.09,7.29,01-08-2007 17:08,strong,strong,no,us,494,0.0,20.4,mwb,120.0,-15.595,167.68,"Luganville, Vanuatu",,Vanuatu,803
+"M 6.9 - 140 km NNW of Tobelo, Indonesia",6.81,6.99,26-07-2007 05:40,light,average,no,us,374,0.0,24.1,mwb,25.0,2.872,127.464,"Tobelo, Indonesia",,Indonesia,734
+"M 6.8 - 133 km WNW of Mikuni, Japan",6.68,6.89,16-07-2007 14:17,average,moderate,no,us,664,0.0,18.2,mwb,350.4,36.808,134.85,"Mikuni, Japan",,,779
+"M 6.6 - 20 km NNW of Kashiwazaki, Japan",6.49,6.71,16-07-2007 01:13,very strong,very strong,no,us,782,0.0,16.7,mwc,12.0,37.535,138.446,"Kashiwazaki, Japan",Asia,Japan,831
+"M 6.7 - 43 km SSE of Iztapa, Guatemala",6.6,6.79,13-06-2007 19:29,significant,significant,no,us,468,0.0,37.7,mwc,23.0,13.554,-90.618,"Iztapa, Guatemala",,,972
+"M 6.9 - 113 km SSE of Panguna, Papua New Guinea",6.83,7.04,01-04-2007 21:11,no intensity,strong,no,us,305,0.0,15.3,mwc,10.0,-7.306,155.741,"Panguna, Papua New Guinea",,Solomon Islands,732
+"M 6.6 - 99 km SSE of Panguna, Papua New Guinea",6.49,6.73,01-04-2007 20:47,no intensity,strong,no,us,251,0.0,16.0,mb,10.0,-7.169,155.777,"Panguna, Papua New Guinea",,Solomon Islands,670
+"M 8.1 - 45 km SSE of Gizo, Solomon Islands",8.02,8.23,01-04-2007 20:39,extremely strong,very strong,no,us,439,0.0,14.7,mwc,24.0,-8.466,157.043,"Gizo, Solomon Islands",,Solomon Islands,1025
+"M 6.7 - 46 km NW of Nanao, Japan",6.58,6.81,25-03-2007 00:41,strong,very strong,no,us,493,0.0,23.9,mwc,8.0,37.336,136.588,"Nanao, Japan",Asia,Japan,782
+"M 7.1 - 119 km S of Isangel, Vanuatu",7.02,7.2,25-03-2007 00:40,light,significant,no,us,426,0.0,25.3,mwb,34.0,-20.617,169.357,"Isangel, Vanuatu",,,779
+"M 6.7 - 206 km SSW of Sofifi, Indonesia",6.61,6.77,20-02-2007 08:04,no intensity,significant,no,us,253,0.0,40.3,mwc,12.0,-1.034,126.976,S,,Indonesia,691
+"M 7.5 - 126 km WNW of Ternate, Indonesia",7.36,7.63,21-01-2007 11:27,significant,average,no,us,570,0.0,21.6,mwc,22.0,1.065,126.282,"Ternate, Indonesia",,Indonesia,874
+M 8.1 - east of the Kuril Islands,7.99,8.22,13-01-2007 04:23,moderate,average,no,us,606,0.0,14.0,mwc,10.0,46.243,154.524,the Kuril Islands,,,1034
+"M 6.9 - 26 km W of Hengchun, Taiwan",6.77,6.98,26-12-2006 12:34,significant,strong,no,us,466,0.0,31.6,mwc,10.0,21.974,120.493,"Hengchun, Taiwan",Asia,Taiwan,798
+"M 7.1 - 30 km SW of Hengchun, Taiwan",7.0,7.21,26-12-2006 12:26,very strong,strong,no,us,744,0.0,29.1,mwb,10.0,21.799,120.547,"Hengchun, Taiwan",Asia,Taiwan,1023
+M 8.3 - Kuril Islands,8.21,8.44,15-11-2006 11:14,moderate,strong,no,us,576,0.0,20.9,mwc,10.0,46.592,153.266,Kuril Islands,,,1064
+"M 6.6 - 155 km SE of Kimbe, Papua New Guinea",6.5,6.74,07-11-2006 17:38,no intensity,significant,no,us,352,0.0,18.6,mwc,11.0,-6.482,151.195,"Kimbe, Papua New Guinea",,,670
+"M 6.7 - 52 km SW of San Vicente de Cañete, Peru",6.59,6.81,20-10-2006 10:48,average,significant,no,us,444,0.0,53.4,mwc,23.0,-13.457,-76.677,"San Vicente de Cañete, Peru",,Peru,732
+"M 6.7 - 100 km ESE of Kimbe, Papua New Guinea",6.57,6.81,17-10-2006 01:25,average,significant,no,us,533,0.0,15.6,mwc,32.0,-5.881,150.982,"Kimbe, Papua New Guinea",,Papua New Guinea,692
+"M 6.7 - 14 km SW of Puako, Hawaii",6.57,6.83,15-10-2006 17:07,very strong,extremely strong,no,hv,43,0.0,124.0,md,38.182,19.877,-155.935,"Puako, Hawaii",,United States of America,1481
+"M 6.9 - 201 km ESE of Hihifo, Tonga",6.77,7.03,28-09-2006 06:22,light,light,no,us,702,0.0,20.9,mwc,28.0,-16.592,-172.033,"Hihifo, Tonga",,,737
+"M 6.8 - 49 km S of Panguna, Papua New Guinea",6.67,6.89,01-09-2006 10:18,no intensity,significant,no,us,459,0.0,28.4,mwb,38.0,-6.759,155.512,"Panguna, Papua New Guinea",,Papua New Guinea,711
+"M 6.5 - 81 km ESE of Ozernovskiy, Russia",6.39,6.59,24-08-2006 21:50,no intensity,significant,no,us,700,0.0,47.4,mwb,43.0,51.148,157.522,"Ozernovskiy, Russia",Asia,Russia,650
+"M 6.8 - 51 km NE of Norsup, Vanuatu",6.68,6.91,07-08-2006 22:18,average,average,no,us,551,0.0,26.2,mwb,150.0,-15.798,167.789,"Norsup, Vanuatu",,Vanuatu,713
+"M 7.7 - 226 km SSW of Singaparna, Indonesia",7.63,7.81,17-07-2006 08:19,strong,average,no,us,357,0.0,36.8,mwc,20.0,-9.284,107.419,"Singaparna, Indonesia",,,947
+"M 6.5 - 111 km E of Kimbe, Papua New Guinea",6.4,6.63,28-05-2006 03:12,no intensity,significant,no,us,477,0.0,20.3,mwc,34.0,-5.724,151.133,"Kimbe, Papua New Guinea",,Papua New Guinea,650
+"M 6.6 - 42 km NNW of Tilichiki, Russia",6.48,6.68,22-05-2006 11:12,no intensity,strong,no,us,548,0.0,28.0,mwc,19.0,60.772,165.743,"Tilichiki, Russia",Asia,Russia,670
+"M 6.8 - 256 km SSW of Singkil, Indonesia",6.7,6.88,16-05-2006 15:28,moderate,average,no,us,701,0.0,16.3,mwb,12.0,0.093,97.05,"Singkil, Indonesia",,,719
+"M 8.0 - 47 km SSE of Pangai, Tonga",7.92,8.08,03-05-2006 15:26,strong,strong,no,us,626,0.0,20.7,mwc,55.0,-20.187,-174.123,"Pangai, Tonga",,,1013
+"M 8.0 - 50 km ESE of Pangai, Tonga",7.91,8.08,03-05-2006 15:26,very strong,extremely strong,no,duputel,0,0.0,0.0,mww,60.5,-19.99,-173.907,"Pangai, Tonga",,,1026
+"M 6.5 - 73 km WNW of Copiapó, Chile",6.39,6.58,30-04-2006 21:40,strong,strong,no,us,282,0.0,46.3,mwc,12.0,-27.211,-71.056,"Copiapó, Chile",,Chile,653
+"M 6.7 - 78 km WNW of Copiapó, Chile",6.6,6.82,30-04-2006 19:17,significant,strong,no,us,277,0.0,25.6,mwb,12.0,-27.017,-71.022,"Copiapó, Chile",,Chile,696
+"M 6.6 - 80 km E of Tilichiki, Russia",6.47,6.69,29-04-2006 16:58,no intensity,very strong,no,us,645,0.0,28.4,mwc,11.0,60.491,167.516,"Tilichiki, Russia",Asia,Russia,670
+"M 7.6 - 80 km NE of Tilichiki, Russia",7.47,7.72,20-04-2006 23:25,no intensity,very strong,no,us,579,0.0,18.5,mwc,22.0,60.949,167.089,"Tilichiki, Russia",Asia,Russia,889
+"M 6.5 - 130 km NNW of Lautoka, Fiji",6.4,6.58,07-04-2006 08:30,light,average,no,us,247,0.0,25.5,mwc,14.0,-16.527,176.989,"Lautoka, Fiji",,,654
+"M 6.7 - 108 km W of Ambon, Indonesia",6.6,6.78,14-03-2006 06:57,no intensity,strong,no,us,306,0.0,21.3,mwb,30.1,-3.595,127.214,"Ambon, Indonesia",,Indonesia,691
+"M 7.0 - 160 km SE of Chipinge, Zimbabwe",6.92,7.12,22-02-2006 22:19,average,extremely strong,no,us,412,0.0,23.2,mwb,11.0,-21.324,33.583,"Chipinge, Zimbabwe",Africa,Mozambique,891
+"M 6.7 - 26 km NE of Kýthira, Greece",6.57,6.79,08-01-2006 11:34,strong,significant,no,us,769,0.0,19.7,mwb,66.0,36.311,23.212,"Kýthira, Greece",Europe,Greece,934
+"M 6.6 - 75 km SSW of Bahía de Kino, Mexico",6.52,6.72,04-01-2006 08:32,strong,significant,no,us,323,0.0,48.2,mwc,14.0,28.164,-112.117,"Bahía de Kino, Mexico",,,703
+"M 6.5 - 53 km SW of Ashk?sham, Afghanistan",6.4,6.63,12-12-2005 21:47,significant,average,no,us,529,0.0,20.5,mwb,224.6,36.357,71.093,"Ashk?sham, Afghanistan",Asia,Afghanistan,721
+"M 6.8 - 76 km ESE of Kalemie, Democratic Republic of the Congo",6.72,6.88,05-12-2005 12:19,average,strong,no,us,561,0.0,20.0,mwc,22.0,-6.224,29.83,"Kalemie, Democratic Republic",Africa,Tanzania,744
+"M 6.5 - 80 km ESE of Ishinomaki, Japan",6.37,6.6,02-12-2005 13:13,moderate,average,no,us,464,0.0,48.8,mwc,29.0,38.089,142.122,"Ishinomaki, Japan",,,683
+"M 6.5 - 57 km SE of Sinabang, Indonesia",6.36,6.59,19-11-2005 14:10,light,significant,no,us,358,0.0,20.7,mwb,21.0,2.164,96.786,"Sinabang, Indonesia",,Indonesia,651
+"M 6.8 - 68 km NNE of San Pedro de Atacama, Chile",6.66,6.87,17-11-2005 19:26,no intensity,significant,no,us,509,0.0,30.1,mwb,147.0,-22.361,-67.895,"San Pedro de Atacama, Chile",South America,Bolivia,711
+"M 7.6 - 21 km NNE of Muzaffar?b?d, Pakistan",7.5,7.69,08-10-2005 03:50,extremely strong,extremely strong,no,us,724,0.0,21.1,mwc,26.0,34.539,73.588,"Muzaffar?b?d, Pakistan",Asia,Pakistan,1267
+"M 6.6 - 129 km SSW of Kokopo, Papua New Guinea",6.46,6.72,29-09-2005 15:50,no intensity,significant,no,us,402,0.0,17.7,mwc,25.0,-5.437,151.84,"Kokopo, Papua New Guinea",,Papua New Guinea,670
+"M 7.5 - 39 km NW of Yurimaguas, Peru",7.38,7.62,26-09-2005 01:55,very strong,strong,no,us,696,0.0,26.2,mwb,115.0,-5.678,-76.398,"Yurimaguas, Peru",South America,Peru,1018
+"M 7.6 - 135 km E of Kokopo, Papua New Guinea",7.51,7.74,09-09-2005 07:26,average,strong,no,us,502,0.0,20.0,mwc,90.0,-4.539,153.474,"Kokopo, Papua New Guinea",,Papua New Guinea,891
+"M 7.2 - 66 km ESE of Ishinomaki, Japan",7.07,7.33,16-08-2005 02:46,strong,strong,no,us,698,0.0,19.6,mwc,36.0,38.276,142.039,"Ishinomaki, Japan",,,1104
+"M 7.2 - Nicobar Islands, India region",7.09,7.29,24-07-2005 15:42,moderate,average,no,us,636,0.0,26.4,mwc,16.0,7.92,92.19,"Nicobar Islands, India region",,,808
+"M 6.7 - 94 km WSW of Singkil, Indonesia",6.61,6.84,05-07-2005 01:52,light,significant,no,us,398,0.0,22.3,mwc,21.0,1.819,97.082,"Singkil, Indonesia",,Indonesia,693
+"M 6.6 - 32 km W of San Juan del Sur, Nicaragua",6.46,6.67,02-07-2005 02:16,significant,average,no,us,446,0.0,21.1,mwc,27.0,11.245,-86.172,"San Juan del Sur, Nicaragua",,,719
+"M 7.2 - 153 km W of Big Lagoon, California",7.07,7.29,15-06-2005 02:50,average,moderate,no,us,420,0.0,31.4,mwc,16.0,41.292,-125.953,"Big Lagoon, California",,,1318
+"M 7.8 - 102 km ENE of Iquique, Chile",7.68,7.88,13-06-2005 22:44,very strong,strong,no,us,714,0.0,16.1,mwb,115.6,-19.987,-69.197,"Iquique, Chile",South America,Chile,1020
+"M 6.9 - 89 km WSW of Singkil, Indonesia",6.8,6.98,19-05-2005 01:54,average,strong,no,us,635,0.0,26.0,mwc,30.0,1.989,97.041,"Singkil, Indonesia",,Indonesia,740
+"M 6.7 - 125 km SW of Padangsidempuan, Indonesia",6.62,6.78,14-05-2005 05:05,significant,average,no,us,695,0.0,20.9,mwb,34.0,0.587,98.459,"Padangsidempuan, Indonesia",,Indonesia,731
+"M 6.5 - 106 km SW of Padang, Indonesia",6.37,6.58,10-04-2005 11:14,light,significant,no,us,478,0.0,21.2,mwc,30.0,-1.714,99.779,"Padang, Indonesia",,Indonesia,657
+"M 6.7 - 113 km SW of Padang, Indonesia",6.6,6.83,10-04-2005 10:29,average,significant,no,us,656,0.0,21.2,mwc,19.0,-1.644,99.607,"Padang, Indonesia",,Indonesia,717
+"M 8.6 - 78 km WSW of Singkil, Indonesia",8.49,8.71,28-03-2005 16:09,no intensity,very strong,no,official,510,0.0,22.1,mww,30.0,2.085,97.108,"Singkil, Indonesia",,Indonesia,1138
+"M 6.6 - 28 km NNW of Maebaru-ch??, Japan",6.51,6.73,20-03-2005 01:53,very strong,strong,no,us,401,0.0,22.9,mwc,10.0,33.807,130.131,"Maebaru-ch??, Japan",Asia,Japan,805
+M 7.1 - Banda Sea,6.99,7.17,02-03-2005 10:42,no intensity,average,no,us,569,0.0,18.1,mwb,201.7,-6.527,129.933,Banda Sea,,Indonesia,776
+"M 6.8 - 99 km WNW of Sinabang, Indonesia",6.68,6.93,26-02-2005 12:56,no intensity,significant,no,us,444,0.0,33.8,mwb,36.0,2.908,95.592,"Sinabang, Indonesia",,Indonesia,711
+"M 6.5 - 81 km SSW of Katabu, Indonesia",6.39,6.59,19-02-2005 00:04,no intensity,strong,no,us,371,0.0,31.8,mwb,10.0,-5.562,122.129,"Katabu, Indonesia",,Indonesia,650
+"M 6.5 - Pulau-Pulau Talaud, Indonesia",6.43,6.63,15-02-2005 14:42,light,average,no,us,286,0.0,47.3,mwc,39.7,4.756,126.421,"Pulau-Pulau Talaud, Indonesia",,Indonesia,652
+"M 6.7 - 52 km SW of Sola, Vanuatu",6.57,6.78,08-02-2005 14:48,no intensity,moderate,no,us,457,0.0,30.2,mwb,206.3,-14.252,167.259,"Sola, Vanuatu",,Vanuatu,691
+"M 7.1 - 138 km SW of Palimbang, Philippines",6.97,7.22,05-02-2005 12:23,strong,light,no,us,640,0.0,26.4,mwc,525.0,5.293,123.337,"Palimbang, Philippines",,,782
+"M 6.6 - 161 km SE of Katsuura, Japan",6.47,6.71,19-01-2005 06:11,significant,moderate,no,us,225,0.0,78.5,mwc,27.8,34.064,141.491,"Katsuura, Japan",,,676
+"M 6.6 - Nicobar Islands, India region",6.47,6.68,26-12-2004 09:20,no intensity,average,no,us,353,0.0,31.9,mwc,16.1,8.879,92.375,"Nicobar Islands, India region",,,670
+"M 7.2 - 284 km WNW of Sabang, Indonesia",7.07,7.3,26-12-2004 04:21,average,significant,no,us,385,0.0,27.9,mwc,39.2,6.91,92.958,"Sabang, Indonesia",,,802
+M 9.1 - 2004 Sumatra - Andaman Islands Earthquake,8.98,9.21,26-12-2004 00:58,no intensity,very strong,no,official,601,0.0,22.0,mw,30.0,3.295,95.982,2004 Sumatra - Andaman Islands Earthquake,,Indonesia,1274
+M 8.1 - north of Macquarie Island,8.0,8.17,23-12-2004 14:59,no intensity,average,no,us,331,0.0,59.3,mwc,10.0,-49.312,161.345,Macquarie Island,,,1009
+"M 6.8 - 36 km S of George Town, Cayman Islands",6.72,6.9,14-12-2004 23:20,average,significant,no,us,639,0.0,21.8,mwb,10.0,18.958,-81.409,"George Town, Cayman Islands",,,858
+"M 6.8 - 54 km SSW of Nemuro, Japan",6.67,6.91,06-12-2004 14:15,moderate,strong,no,us,759,0.0,23.6,mwb,35.0,42.9,145.228,"Nemuro, Japan",Asia,Japan,724
+"M 7.0 - 51 km SW of Nemuro, Japan",6.89,7.08,28-11-2004 18:32,moderate,strong,no,us,929,0.0,23.9,mwb,39.0,43.006,145.119,"Nemuro, Japan",Asia,Japan,771
+"M 7.1 - 29 km SSW of Nabire, Indonesia",6.99,7.18,26-11-2004 02:25,no intensity,strong,no,us,439,0.0,28.8,mwc,10.0,-3.609,135.404,"Nabire, Indonesia",,Indonesia,776
+"M 7.1 - 255 km W of Riverton, New Zealand",7.0,7.18,22-11-2004 20:26,average,average,no,us,585,0.0,14.7,mwc,10.0,-46.676,164.721,"Riverton, New Zealand",,,782
+"M 7.2 - 32 km SSW of Pizarro, Colombia",7.11,7.32,15-11-2004 09:06,very strong,very strong,no,us,708,0.0,50.2,mwb,15.0,4.695,-77.508,"Pizarro, Colombia",,Colombia,820
+"M 7.5 - 63 km NW of Maubara, Timor Leste",7.41,7.58,11-11-2004 21:26,average,strong,no,us,301,0.0,33.8,mwc,10.0,-8.152,124.868,"Maubara, Timor Leste",,Indonesia,870
+"M 6.7 - 80 km SSE of Kirakira, Solomon Islands",6.57,6.82,11-11-2004 17:34,no intensity,significant,no,us,233,0.0,21.5,mwb,10.0,-11.128,162.208,"Kirakira, Solomon Islands",,,691
+"M 6.7 - 189 km SW of Port McNeill, Canada",6.61,6.77,02-11-2004 10:02,strong,moderate,no,us,459,0.0,37.3,mwb,10.0,49.277,-128.772,"Port McNeill, Canada",,,703
+"M 6.6 - 8 km SSW of Ojiya, Japan",6.51,6.72,23-10-2004 08:56,no intensity,very strong,no,us,782,0.0,37.0,mwc,16.0,37.226,138.779,"Ojiya, Japan",Asia,Japan,670
+"M 6.7 - 31 km WNW of Yonakuni, Japan",6.61,6.81,15-10-2004 04:08,average,significant,no,us,698,0.0,24.7,mwb,94.0,24.53,122.694,"Yonakuni, Japan",,,705
+"M 7.0 - 43 km SSW of Masachapa, Nicaragua",6.87,7.09,09-10-2004 21:26,no intensity,significant,no,us,441,0.0,32.2,mwc,35.0,11.422,-86.665,"Masachapa, Nicaragua",,,754
+"M 6.5 - 9 km W of Talisay, Philippines",6.39,6.58,08-10-2004 14:36,average,average,no,us,526,0.0,18.3,mwb,105.0,13.925,120.534,"Talisay, Philippines",,Philippines,665
+"M 6.8 - 60 km SSE of Kirakira, Solomon Islands",6.69,6.89,08-10-2004 08:27,no intensity,significant,no,us,545,0.0,15.7,mwb,36.0,-10.951,162.161,"Kirakira, Solomon Islands",,Solomon Islands,711
+"M 6.6 - 129 km ESE of Shing?, Japan",6.47,6.72,06-09-2004 23:29,no intensity,moderate,no,us,478,0.0,29.8,mwc,10.0,33.205,137.227,"Shing?, Japan",,,670
+"M 7.4 - 118 km ESE of Shing?, Japan",7.31,7.53,05-09-2004 14:57,no intensity,average,no,us,594,0.0,27.5,mwb,10.0,33.184,137.071,"Shing?, Japan",,,842
+"M 7.2 - 94 km SE of Shing?, Japan",7.09,7.28,05-09-2004 10:07,no intensity,average,no,us,643,0.0,28.4,mwc,14.0,33.07,136.618,"Shing?, Japan",,,798
+"M 6.5 - 67 km ESE of Teno, Chile",6.43,6.61,28-08-2004 13:41,no intensity,strong,no,us,349,0.0,30.1,mwb,5.0,-35.173,-70.525,"Teno, Chile",South America,Chile,650
+"M 6.5 - 117 km WNW of Manokwari, Indonesia",6.38,6.63,28-07-2004 03:56,no intensity,strong,no,us,305,0.0,39.0,mwc,13.4,-0.443,133.091,"Manokwari, Indonesia",,Indonesia,650
+"M 6.9 - 24 km ENE of Atlasovo, Russia",6.77,7.01,10-06-2004 15:19,no intensity,average,no,us,798,0.0,31.2,mwb,188.6,55.682,160.003,"Atlasovo, Russia",Asia,Russia,732
+"M 6.6 - 11 km N of Cañete, Chile",6.46,6.7,03-05-2004 04:36,no intensity,strong,no,us,282,0.0,46.9,mwb,21.0,-37.695,-73.406,"Cañete, Chile",South America,Chile,670
+"M 6.7 - 105 km WNW of Naisano Dua, Indonesia",6.62,6.82,23-04-2004 01:50,no intensity,average,no,us,386,0.0,27.6,mwb,65.8,-9.362,122.839,"Naisano Dua, Indonesia",,Indonesia,691
+"M 6.5 - 86 km NNW of Sola, Vanuatu",6.38,6.57,09-04-2004 15:23,no intensity,moderate,no,us,424,0.0,29.9,mwb,228.4,-13.174,167.198,"Sola, Vanuatu",,Vanuatu,650
+M 6.6 - Afghanistan-Tajikistan-Pakistan region,6.51,6.69,05-04-2004 21:24,no intensity,moderate,no,us,728,0.0,18.3,mwb,187.1,36.512,71.029,Afghanistan-Tajikistan-Pakistan region,Asia,Afghanistan,670
+"M 6.7 - 38 km SSW of Nabire, Indonesia",6.62,6.78,08-02-2004 08:58,no intensity,strong,no,us,256,0.0,33.3,mwc,25.7,-3.665,135.339,"Nabire, Indonesia",,Indonesia,691
+"M 7.3 - Near the south coast of Papua, Indonesia",7.2,7.4,07-02-2004 02:42,no intensity,strong,no,us,390,0.0,23.0,mwb,10.0,-4.003,135.023,"Papua, Indonesia",,Indonesia,820
+"M 7.0 - 28 km S of Nabire, Indonesia",6.89,7.1,05-02-2004 21:05,no intensity,strong,no,us,367,0.0,33.0,mwc,16.6,-3.615,135.538,"Nabire, Indonesia",,Indonesia,754
+"M 6.7 - 107 km NW of Ambon, Indonesia",6.58,6.77,28-01-2004 22:15,no intensity,significant,no,us,243,0.0,42.5,mwb,17.4,-3.12,127.4,"Ambon, Indonesia",,Indonesia,691
+"M 7.3 - 201 km ESE of Tadine, New Caledonia",7.17,7.43,27-12-2003 16:00,no intensity,moderate,no,us,235,0.0,46.6,mwc,10.0,-22.015,169.766,"Tadine, New Caledonia",,,820
+"M 6.6 - 13 km SSW of Bam, Iran",6.51,6.67,26-12-2003 01:56,no intensity,extremely strong,no,us,552,0.0,44.8,mwc,10.0,28.995,58.311,"Bam, Iran",Asia,Iran,670
+"M 6.5 - 3 km SSE of Progreso, Panama",6.37,6.58,25-12-2003 07:11,no intensity,significant,no,us,405,0.0,48.4,mwb,33.0,8.416,-82.824,"Progreso, Panama",,Panama,650
+"M 6.5 - 10 km NE of San Simeon, California",6.37,6.63,22-12-2003 19:15,strong,extremely strong,no,nc,65,0.04685,71.0,mw,8.382,35.7005,-121.101,"San Simeon, California",North America,United States of America,1390
+"M 6.8 - 92 km E of Yujing, Taiwan",6.7,6.9,10-12-2003 04:38,no intensity,strong,no,us,447,0.0,27.7,mwb,10.0,23.039,121.362,"Yujing, Taiwan",Asia,Taiwan,711
+"M 6.6 - 82 km E of Kimbe, Papua New Guinea",6.5,6.71,25-11-2003 20:19,no intensity,significant,no,us,384,0.0,25.1,mwb,35.0,-5.581,150.88,"Kimbe, Papua New Guinea",,Papua New Guinea,670
+"M 6.5 - 4 km NW of Can-Avid, Philippines",6.41,6.63,18-11-2003 17:14,no intensity,significant,no,us,487,0.0,45.9,mwb,35.0,12.025,125.416,"Can-Avid, Philippines",,Philippines,650
+"M 6.6 - 51 km NW of Isangel, Vanuatu",6.48,6.72,06-11-2003 10:38,no intensity,average,no,us,475,0.0,26.2,mwb,113.7,-19.262,168.892,"Isangel, Vanuatu",,,670
+"M 7.0 - 133 km ESE of Ishinomaki, Japan",6.87,7.1,31-10-2003 01:06,no intensity,average,no,us,568,0.0,61.2,mwb,10.0,37.812,142.619,"Ishinomaki, Japan",,,754
+"M 6.7 - 39 km SSE of Kushiro, Japan",6.61,6.79,08-10-2003 09:06,no intensity,significant,no,us,556,0.0,55.4,mwc,32.0,42.648,144.57,"Kushiro, Japan",Asia,,691
+"M 6.7 - 9 km S of Aktash, Russia",6.6,6.77,01-10-2003 01:03,no intensity,strong,no,us,643,0.0,24.5,mwb,10.0,50.211,87.721,"Aktash, Russia",Asia,Russia,691
+"M 6.5 - 58 km S of Kushiro, Japan",6.36,6.63,29-09-2003 02:36,no intensity,average,no,us,586,0.0,71.3,mwc,25.0,42.45,144.38,"Kushiro, Japan",,,650
+"M 7.3 - 29 km S of Aktash, Russia",7.18,7.38,27-09-2003 11:33,no intensity,strong,no,us,667,0.0,24.5,mwb,16.0,50.038,87.813,"Aktash, Russia",Asia,Russia,820
+"M 7.4 - 119 km ESE of Shizunai-furukawach?, Japan",7.3,7.51,25-09-2003 21:08,no intensity,strong,no,us,514,0.0,78.8,mwc,33.0,41.774,143.593,"Shizunai-furukawach?, Japan",Asia,,842
+"M 8.2 - 134 km SSW of Kushiro, Japan",8.06,8.27,25-09-2003 19:50,no intensity,extremely strong,no,official,0,0.0,0.0,mww,27.0,41.815,143.91,"Kushiro, Japan",,,1024
+"M 6.6 - 16 km SE of Taungdwingyi, Myanmar",6.52,6.7,21-09-2003 18:16,no intensity,strong,no,us,518,0.0,24.7,mwb,10.0,19.917,95.672,"Taungdwingyi, Myanmar",Asia,Myanmar,670
+"M 7.2 - 56 km NW of Te Anau, New Zealand",7.08,7.3,21-08-2003 12:12,no intensity,strong,no,us,428,0.0,17.5,mwc,28.0,-45.104,167.144,"Te Anau, New Zealand",,New Zealand,798
+M 7.6 - Scotia Sea,7.52,7.71,04-08-2003 04:37,no intensity,significant,no,us,315,0.0,25.2,mwc,10.0,-60.532,-43.411,Scotia Sea,,United Kingdom of Great Britain and Northern Ireland (the),889
+"M 6.5 - 41 km N of Rabaul, Papua New Guinea",6.42,6.62,15-07-2003 18:46,no intensity,significant,no,us,156,0.0,31.4,mwb,33.0,-3.828,152.174,"Rabaul, Papua New Guinea",,Papua New Guinea,650
+"M 6.8 - 42 km W of Ovalle, Chile",6.67,6.9,20-06-2003 13:30,no intensity,strong,no,us,398,0.0,39.1,mwc,33.0,-30.608,-71.637,"Ovalle, Chile",South America,Chile,711
+"M 6.9 - 25 km ESE of Atlasovo, Russia",6.76,7.03,16-06-2003 22:08,no intensity,average,no,us,733,0.0,26.7,mwb,174.8,55.492,159.999,"Atlasovo, Russia",Asia,Russia,732
+"M 6.6 - 87 km SSE of Kokopo, Papua New Guinea",6.5,6.7,07-06-2003 00:32,no intensity,significant,no,us,419,0.0,27.8,mwc,33.0,-5.095,152.502,"Kokopo, Papua New Guinea",,Papua New Guinea,670
+"M 7.0 - 116 km NE of Tobelo, Indonesia",6.89,7.1,26-05-2003 19:23,no intensity,significant,no,us,473,0.0,30.3,mwc,31.0,2.354,128.855,"Tobelo, Indonesia",,Indonesia,754
+"M 7.0 - 27 km SSW of ?funato, Japan",6.87,7.08,26-05-2003 09:24,no intensity,strong,no,us,690,0.0,19.1,mwb,68.0,38.849,141.568,"?funato, Japan",Asia,Japan,754
+"M 6.8 - 25 km WNW of Dellys, Algeria",6.71,6.93,21-05-2003 18:44,no intensity,extremely strong,no,us,534,0.0,19.4,mwc,12.0,36.964,3.634,"Dellys, Algeria",,Algeria,711
+"M 6.5 - 46 km NE of Ruteng, Indonesia",6.37,6.64,25-03-2003 02:53,no intensity,strong,no,us,247,0.0,28.7,mwc,33.0,-8.294,120.743,"Ruteng, Indonesia",,Indonesia,650
+"M 6.8 - 114 km ESE of Kokopo, Papua New Guinea",6.72,6.87,11-03-2003 07:27,no intensity,strong,no,us,431,0.0,38.4,mwc,40.2,-4.694,153.238,"Kokopo, Papua New Guinea",,Papua New Guinea,711
+"M 7.6 - 16 km SSW of Cuyutlán, Mexico",7.49,7.68,22-01-2003 02:06,no intensity,strong,no,us,551,0.0,0.0,mwb,24.0,18.77,-104.104,"Cuyutlán, Mexico",North America,Mexico,889
+"M 6.5 - 33 km S of Puerto San José, Guatemala",6.4,6.6,21-01-2003 02:46,no intensity,significant,no,us,316,0.0,0.0,mwc,24.0,13.626,-90.774,"Puerto San José, Guatemala",,,650
+"M 7.3 - 126 km W of Kirakira, Solomon Islands",7.22,7.41,20-01-2003 08:43,no intensity,significant,no,us,457,0.0,0.0,mwc,33.0,-10.491,160.77,"Kirakira, Solomon Islands",,,820
+"M 6.7 - 191 km SE of Kokopo, Papua New Guinea",6.63,6.79,10-01-2003 13:11,no intensity,average,no,us,323,0.0,0.0,mwb,71.9,-5.311,153.701,"Kokopo, Papua New Guinea",,,691
+"M 6.7 - New Ireland region, Papua New Guinea",6.63,6.81,12-12-2002 08:30,no intensity,significant,no,us,453,0.0,0.0,mwb,34.0,-4.786,153.275,"New Ireland region, Papua New Guinea",,Papua New Guinea,691
+"M 7.9 - 75 km E of Cantwell, Alaska",7.76,8.01,03-11-2002 22:12,very strong,extremely strong,no,ak,0,0.0,0.0,mw,4.2,63.5141,-147.453,"Cantwell, Alaska",North America,United States of America,1750
+"M 7.4 - 50 km NW of Sinabang, Indonesia",7.32,7.5,02-11-2002 01:26,no intensity,strong,no,us,418,0.0,0.0,mwb,30.0,2.824,96.085,"Sinabang, Indonesia",,Indonesia,842
+"M 6.6 - 53 km ENE of Cantwell, Alaska",6.46,6.71,23-10-2002 11:27,no intensity,strong,no,ak,0,0.0,0.0,mw,4.2,63.5144,-147.912,"Cantwell, Alaska",North America,United States of America,670
+"M 6.7 - 72 km S of Manokwari, Indonesia",6.6,6.8,10-10-2002 12:28,no intensity,strong,no,us,250,0.0,0.0,ms,10.0,-1.511,133.973,"Manokwari, Indonesia",,Indonesia,691
+"M 7.6 - 102 km SSE of Manokwari, Indonesia",7.47,7.68,10-10-2002 10:50,no intensity,strong,no,us,375,0.0,0.0,mwc,10.0,-1.757,134.297,"Manokwari, Indonesia",,Indonesia,889
+"M 6.5 - 152 km NNE of Bamboo Flat, India",6.39,6.62,13-09-2002 22:28,no intensity,significant,no,us,646,0.0,0.0,mwc,21.0,13.036,93.068,"Bamboo Flat, India",,India,650
+"M 7.6 - 68 km ESE of Aitape, Papua New Guinea",7.47,7.68,08-09-2002 18:44,no intensity,strong,no,us,428,0.0,0.0,mwc,13.0,-3.302,142.945,"Aitape, Papua New Guinea",,Papua New Guinea,889
+"M 6.5 - 114 km SSE of San Jose Village, Northern Mariana Islands",6.42,6.61,14-08-2002 13:57,no intensity,moderate,no,us,260,0.0,0.0,mwc,30.0,14.101,146.199,"San Jose Village, Northern Mariana Islands",,,650
+"M 6.5 - 14 km SE of Punta de Burica, Panama",6.36,6.58,31-07-2002 00:16,no intensity,strong,no,us,533,0.0,0.0,mwc,10.0,7.929,-82.793,"Punta de Burica, Panama",,Panama,650
+"M 6.5 - 59 km SSW of Abhar, Iran",6.41,6.59,22-06-2002 02:58,no intensity,very strong,no,us,555,0.0,0.0,mwc,10.0,35.626,49.047,"Abhar, Iran",Asia,Iran,650
+"M 6.6 - 20 km SW of Monte Patria, Chile",6.52,6.67,18-06-2002 13:56,no intensity,strong,no,us,420,0.0,0.0,mwb,54.0,-30.805,-71.124,"Monte Patria, Chile",South America,Chile,670
+"M 6.7 - 190 km NW of Sola, Vanuatu",6.61,6.8,17-06-2002 21:26,no intensity,average,no,us,272,0.0,0.0,mwc,33.0,-12.592,166.383,"Sola, Vanuatu",,,691
+"M 7.1 - 20 km SSW of Merizo Village, Guam",7.0,7.24,26-04-2002 16:06,no intensity,strong,no,us,257,0.0,0.0,mwc,85.7,13.088,144.619,"Merizo Village, Guam",,United States of America,776
+"M 6.7 - 31 km SW of Copiapó, Chile",6.58,6.79,18-04-2002 16:08,no intensity,strong,no,us,462,0.0,0.0,mwb,62.0,-27.535,-70.586,"Copiapó, Chile",South America,Chile,691
+"M 6.8 - 27 km SSW of Nuxco, Mexico",6.71,6.89,18-04-2002 05:02,no intensity,significant,no,us,292,0.0,0.0,mwc,24.9,16.985,-100.865,"Nuxco, Mexico",North America,,711
+"M 7.1 - 67 km ENE of Hualien City, Taiwan",7.0,7.21,31-03-2002 06:52,no intensity,significant,no,us,550,0.0,0.0,mwc,32.8,24.279,122.179,"Hualien City, Taiwan",Asia,,776
+"M 6.5 - 107 km NE of Calama, Chile",6.42,6.57,28-03-2002 04:56,no intensity,average,no,us,486,0.0,0.0,mwc,125.1,-21.663,-68.329,"Calama, Chile",South America,Chile,650
+"M 7.5 - Mindanao, Philippines",7.43,7.61,05-03-2002 21:16,no intensity,strong,no,us,321,0.0,0.0,mwc,31.0,6.033,124.249,"Mindanao, Philippines",,Philippines,865
+"M 7.4 - 51 km SW of Jurm, Afghanistan",7.28,7.51,03-03-2002 12:08,no intensity,average,no,us,138,0.0,0.0,mwc,225.6,36.502,70.482,"Jurm, Afghanistan",Asia,Afghanistan,842
+"M 6.6 - 125 km E of Kimbe, Papua New Guinea",6.52,6.72,05-02-2002 13:27,no intensity,significant,no,us,444,0.0,0.0,mwc,39.0,-5.345,151.248,"Kimbe, Papua New Guinea",,Papua New Guinea,670
+"M 6.5 - 5 km NE of Sultanda??, Turkey",6.39,6.59,03-02-2002 07:11,no intensity,strong,no,us,482,0.0,0.0,mwc,5.0,38.573,31.271,"Sultanda??, Turkey",Asia,Turkey,650
+"M 6.7 - 11 km SE of Aitape, Papua New Guinea",6.61,6.82,10-01-2002 11:14,no intensity,very strong,no,us,333,0.0,0.0,mwc,11.0,-3.212,142.427,"Aitape, Papua New Guinea",,Papua New Guinea,691
+"M 6.6 - 33 km WNW of Port-Vila, Vanuatu",6.47,6.73,03-01-2002 10:17,no intensity,significant,no,us,386,0.0,0.0,mwc,10.0,-17.664,168.004,"Port-Vila, Vanuatu",,Vanuatu,670
+"M 7.2 - 50 km WNW of Port-Vila, Vanuatu",7.1,7.33,02-01-2002 17:22,no intensity,significant,no,us,427,0.0,0.0,mwc,21.0,-17.6,167.856,"Port-Vila, Vanuatu",,Vanuatu,798
+"M 6.8 - 22 km WNW of Malango, Solomon Islands",6.7,6.94,23-12-2001 22:52,no intensity,strong,no,us,385,0.0,0.0,mwc,16.0,-9.613,159.53,"Malango, Solomon Islands",,Solomon Islands,711
+"M 6.8 - 62 km SSW of Yonakuni, Japan",6.66,6.91,18-12-2001 04:02,no intensity,average,no,us,499,0.0,0.0,mwc,14.0,23.954,122.734,"Yonakuni, Japan",,,711
+"M 6.5 - 3 km NW of Hanamaki, Japan",6.37,6.58,02-12-2001 13:01,no intensity,average,no,us,605,0.0,0.0,mwc,123.8,39.402,141.089,"Hanamaki, Japan",Asia,Japan,650
+"M 7.8 - Southern Qinghai, China",7.68,7.91,14-11-2001 09:26,no intensity,extremely strong,no,us,368,0.0,0.0,mwc,10.0,35.946,90.541,"Southern Qinghai, China",Asia,People's Republic of China,936
+"M 7.0 - 40 km S of Kimbe, Papua New Guinea",6.93,7.12,31-10-2001 09:10,no intensity,strong,no,us,254,0.0,0.0,mwc,33.0,-5.912,150.196,"Kimbe, Papua New Guinea",,Papua New Guinea,754
+"M 7.5 - 155 km E of Kendari, Indonesia",7.37,7.62,19-10-2001 03:28,no intensity,significant,no,us,234,0.0,0.0,mwc,33.0,-4.102,123.907,"Kendari, Indonesia",,Indonesia,865
+"M 7.0 - 69 km SSE of Inarajan Village, Guam",6.89,7.13,12-10-2001 15:02,no intensity,significant,no,us,482,0.0,0.0,mwc,37.0,12.686,144.98,"Inarajan Village, Guam",,,754
+"M 6.5 - 108 km WNW of Manokwari, Indonesia",6.42,6.64,11-09-2001 14:56,no intensity,significant,no,us,174,0.0,0.0,mwc,33.0,-0.578,133.13,"Manokwari, Indonesia",,Indonesia,650
+"M 6.6 - 74 km S of Kokhanok, Alaska",6.48,6.71,28-07-2001 07:32,significant,significant,no,ak,0,0.0,0.0,mw,131.8,58.775,-154.701,"Kokhanok, Alaska",North America,United States of America,754
+"M 6.5 - 32 km WNW of Skýros, Greece",6.4,6.63,26-07-2001 00:21,no intensity,very strong,no,us,483,0.0,0.0,mwc,10.0,39.059,24.244,"Skýros, Greece",Europe,Greece,650
+"M 7.6 - 51 km SW of Punta de Bombón, Peru",7.46,7.73,07-07-2001 09:38,no intensity,strong,no,us,398,0.0,0.0,mwc,33.0,-17.543,-72.077,"Punta de Bombón, Peru",,Peru,889
+"M 6.6 - 31 km S of Achanizo, Peru",6.47,6.69,05-07-2001 13:53,no intensity,strong,no,us,324,0.0,0.0,mwc,62.0,-16.086,-73.987,"Achanizo, Peru",,Peru,670
+"M 6.7 - 34 km WSW of Pacocha, Peru",6.6,6.8,26-06-2001 04:18,no intensity,significant,no,us,422,0.0,0.0,mwc,24.0,-17.745,-71.649,"Pacocha, Peru",,Peru,691
+"M 8.4 - 6 km SSW of Atico, Peru",8.29,8.47,23-06-2001 20:33,no intensity,very strong,no,official,518,0.0,0.0,mww,33.0,-16.265,-73.641,"Atico, Peru",,Peru,1086
+"M 6.7 - 128 km SSE of Panguna, Papua New Guinea",6.57,6.82,19-04-2001 21:43,no intensity,significant,no,us,282,0.0,0.0,mwc,17.0,-7.41,155.865,"Panguna, Papua New Guinea",,Solomon Islands,691
+"M 6.8 - 16 km SSW of Kure, Japan",6.67,6.88,24-03-2001 06:27,no intensity,strong,no,us,596,0.0,0.0,mwc,50.0,34.083,132.526,"Kure, Japan",Asia,Japan,711
+"M 6.5 - 41 km SSW of Ambon, Indonesia",6.38,6.6,19-03-2001 05:52,no intensity,significant,no,us,206,0.0,0.0,mwc,33.0,-4.029,128.02,"Ambon, Indonesia",,Indonesia,650
+"M 6.8 - 7 km SSE of Longbranch, Washington",6.73,6.93,28-02-2001 18:54,strong,strong,no,uw,67,0.0,31.0,md,51.798,47.149,-122.727,"Longbranch, Washington",North America,United States of America,1441
+"M 7.1 - 137 km WNW of Ternate, Indonesia",7.03,7.21,24-02-2001 07:23,no intensity,strong,no,us,426,0.0,0.0,mwc,35.0,1.271,126.249,"Ternate, Indonesia",,Indonesia,776
+"M 7.4 - 102 km SSE of Bengkulu, Indonesia",7.3,7.49,13-02-2001 19:28,no intensity,significant,no,us,221,0.0,0.0,mwc,36.0,-4.68,102.562,"Bengkulu, Indonesia",,Indonesia,842
+"M 6.6 - 5 km S of Cojutepeque, El Salvador",6.48,6.73,13-02-2001 14:22,no intensity,very strong,no,us,273,0.0,0.0,mwc,10.0,13.671,-88.938,"Cojutepeque, El Salvador",,El Salvador,670
+"M 7.7 - 17 km NW of Bhach?u, India",7.58,7.83,26-01-2001 03:16,no intensity,extremely strong,no,us,472,0.0,0.0,mwc,16.0,23.419,70.232,"Bhach?u, India",Asia,India,912
+"M 6.9 - 59 km WSW of Bengkulu, Indonesia",6.8,7.01,16-01-2001 13:25,no intensity,significant,no,us,117,0.0,0.0,mwb,28.0,-4.022,101.776,"Bengkulu, Indonesia",,Indonesia,732
+"M 7.7 - 28 km SSW of Puerto El Triunfo, El Salvador",7.57,7.83,13-01-2001 17:33,no intensity,very strong,no,us,427,0.0,0.0,mwc,60.0,13.049,-88.66,"Puerto El Triunfo, El Salvador",,,912
+"M 6.9 - 47 km S of Old Harbor, Alaska",6.77,7.02,10-01-2001 16:02,average,strong,no,ak,0,0.0,0.0,mw,36.4,56.7744,-153.281,"Old Harbor, Alaska",North America,,745
+"M 7.1 - 16 km NE of Port-Olry, Vanuatu",7.01,7.22,09-01-2001 16:49,no intensity,strong,no,us,372,0.0,0.0,mwb,103.0,-14.928,167.17,"Port-Olry, Vanuatu",,Vanuatu,776
+"M 6.8 - Mindanao, Philippines",6.71,6.92,01-01-2001 08:54,no intensity,average,no,us,64,0.0,0.0,mwc,33.0,6.631,126.899,"Mindanao, Philippines",,,711
+"M 7.5 - 21 km SE of Lukatan, Philippines",7.39,7.64,01-01-2001 06:57,no intensity,strong,no,us,324,0.0,0.0,mwc,33.0,6.898,126.579,"Lukatan, Philippines",,Philippines,865

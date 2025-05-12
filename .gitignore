@@ -1,0 +1,5 @@
+# Large archives – keep them out of the repo
+*.zip
+*.tar.gz
+*.tar
+*.gz
